@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!--Add test files here -->
+<suite name="Openmrs">
+<suite-files>
+<suite-file path="D:\new\eclipse-workspace\Openmrs\resource\suites\login.xml" />
+
+</suite-files>
+</suite>

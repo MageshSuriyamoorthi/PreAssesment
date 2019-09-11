@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="42770" started-at="2019-09-11T13:44:05Z" finished-at="2019-09-11T13:44:47Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="42770" started-at="2019-09-11T13:44:05Z" finished-at="2019-09-11T13:44:47Z">
+      <class name="com.openmrs.testscript.Login">
+        <test-method status="PASS" signature="browsersetup()[pri:0, instance:com.openmrs.testscript.Login@42dafa95]" name="browsersetup" is-config="true" duration-ms="15805" started-at="2019-09-11T13:44:05Z" finished-at="2019-09-11T13:44:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method status="FAIL" signature="setup()[pri:1, instance:com.openmrs.testscript.Login@42dafa95]" name="setup" duration-ms="26933" started-at="2019-09-11T13:44:20Z" finished-at="2019-09-11T13:44:47Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Name: AAA, BBB*Gender: Male*Birthdate: 12, February, 2000*Address: VVV, WWW, XXX, YYY, ZZZ, 999999*Phone Number: 9999999999*Relatives: BBB - Parent ] but found [Name: AAA, BBB
+Gender: Male
+Birthdate: 12, February, 2000
+Address: VVV, WWW, XXX, YYY, ZZZ, 999999
+Phone Number: 9999999999
+Relatives: BBB - Parent]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Name: AAA, BBB*Gender: Male*Birthdate: 12, February, 2000*Address: VVV, WWW, XXX, YYY, ZZZ, 999999*Phone Number: 9999999999*Relatives: BBB - Parent ] but found [Name: AAA, BBB
+Gender: Male
+Birthdate: 12, February, 2000
+Address: VVV, WWW, XXX, YYY, ZZZ, 999999
+Phone Number: 9999999999
+Relatives: BBB - Parent]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:453)
+at org.testng.Assert.assertEquals(Assert.java:463)
+at com.openmrs.utils.UtilityFiles.assertequals(UtilityFiles.java:114)
+at com.openmrs.pages.Loginpage.validation(Loginpage.java:77)
+at com.openmrs.testscript.Login.setup(Login.java:24)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- com.openmrs.testscript.Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
