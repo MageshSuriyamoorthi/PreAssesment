@@ -2,41 +2,55 @@
 <testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="42770" started-at="2019-09-11T13:44:05Z" finished-at="2019-09-11T13:44:47Z">
+  <suite name="Default suite" duration-ms="67952" started-at="2019-09-13T13:50:31Z" finished-at="2019-09-13T13:51:39Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="42770" started-at="2019-09-11T13:44:05Z" finished-at="2019-09-11T13:44:47Z">
+    <test name="Default test" duration-ms="67952" started-at="2019-09-13T13:50:31Z" finished-at="2019-09-13T13:51:39Z">
       <class name="com.openmrs.testscript.Login">
-        <test-method status="PASS" signature="browsersetup()[pri:0, instance:com.openmrs.testscript.Login@42dafa95]" name="browsersetup" is-config="true" duration-ms="15805" started-at="2019-09-11T13:44:05Z" finished-at="2019-09-11T13:44:20Z">
+        <test-method status="PASS" signature="browsersetup()[pri:0, instance:com.openmrs.testscript.Login@50ecde95]" name="browsersetup" is-config="true" duration-ms="7721" started-at="2019-09-13T13:50:31Z" finished-at="2019-09-13T13:50:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browsersetup -->
-        <test-method status="FAIL" signature="setup()[pri:1, instance:com.openmrs.testscript.Login@42dafa95]" name="setup" duration-ms="26933" started-at="2019-09-11T13:44:20Z" finished-at="2019-09-11T13:44:47Z">
-          <exception class="java.lang.AssertionError">
+        <test-method status="FAIL" signature="setup()[pri:0, instance:com.openmrs.testscript.Login@50ecde95]" name="setup" duration-ms="60191" started-at="2019-09-13T13:50:39Z" finished-at="2019-09-13T13:51:39Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
-              <![CDATA[expected [Name: AAA, BBB*Gender: Male*Birthdate: 12, February, 2000*Address: VVV, WWW, XXX, YYY, ZZZ, 999999*Phone Number: 9999999999*Relatives: BBB - Parent ] but found [Name: AAA, BBB
-Gender: Male
-Birthdate: 12, February, 2000
-Address: VVV, WWW, XXX, YYY, ZZZ, 999999
-Phone Number: 9999999999
-Relatives: BBB - Parent]]]>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//a[@id='coreapps-mergePatientsHomepageLink-app']"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-084', ip: '55.55.54.52', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\MAGESH~1.SUR\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:64501}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 19029d69f9594f8e92e24428cd695d47
+*** Element info: {Using=xpath, value=//a[@id='coreapps-mergePatientsHomepageLink-app']}]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [Name: AAA, BBB*Gender: Male*Birthdate: 12, February, 2000*Address: VVV, WWW, XXX, YYY, ZZZ, 999999*Phone Number: 9999999999*Relatives: BBB - Parent ] but found [Name: AAA, BBB
-Gender: Male
-Birthdate: 12, February, 2000
-Address: VVV, WWW, XXX, YYY, ZZZ, 999999
-Phone Number: 9999999999
-Relatives: BBB - Parent]
-at org.testng.Assert.fail(Assert.java:96)
-at org.testng.Assert.failNotEquals(Assert.java:776)
-at org.testng.Assert.assertEqualsImpl(Assert.java:137)
-at org.testng.Assert.assertEquals(Assert.java:118)
-at org.testng.Assert.assertEquals(Assert.java:453)
-at org.testng.Assert.assertEquals(Assert.java:463)
-at com.openmrs.utils.UtilityFiles.assertequals(UtilityFiles.java:114)
-at com.openmrs.pages.Loginpage.validation(Loginpage.java:77)
-at com.openmrs.testscript.Login.setup(Login.java:24)
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@id='coreapps-mergePatientsHomepageLink-app']"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-084', ip: '55.55.54.52', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\MAGESH~1.SUR\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:64501}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 19029d69f9594f8e92e24428cd695d47
+*** Element info: {Using=xpath, value=//a[@id='coreapps-mergePatientsHomepageLink-app']}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at com.openmrs.utils.UtilityFiles.ClickElement(UtilityFiles.java:40)
+at com.openmrs.pages.DataManagement.datamanagement(DataManagement.java:13)
+at com.openmrs.testscript.Login.setup(Login.java:45)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -64,11 +78,15 @@ at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 ]]>
             </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
+        <test-method status="PASS" signature="closeSetup()[pri:0, instance:com.openmrs.testscript.Login@50ecde95]" name="closeSetup" is-config="true" duration-ms="1" started-at="2019-09-13T13:51:39Z" finished-at="2019-09-13T13:51:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSetup -->
       </class> <!-- com.openmrs.testscript.Login -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

@@ -1,4 +1,11 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.994 sec - in TestSuite
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 30.97 sec <<< FAILURE! - in TestSuite
+setup(com.openmrs.testscript.Login)  Time elapsed: 20.458 sec  <<< FAILURE!
+java.lang.StringIndexOutOfBoundsException: String index out of range: 20
+	at java.lang.String.substring(Unknown Source)
+	at com.openmrs.utils.UtilityFiles.expectedresult(UtilityFiles.java:127)
+	at com.openmrs.pages.DataValandSubmit.validationandsubmit(DataValandSubmit.java:20)
+	at com.openmrs.testscript.Login.setup(Login.java:36)
+

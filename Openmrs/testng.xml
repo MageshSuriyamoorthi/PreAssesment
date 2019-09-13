@@ -3,7 +3,7 @@
 <!--Add test files here -->
 <suite name="Openmrs">
 <suite-files>
-<suite-file path="D:\new\eclipse-workspace\Openmrs\resource\suites\login.xml" />
+<suite-file path="D:\new\eclipse-workspace\Openmrs\resource\suites\Login.xml" />
 
 </suite-files>
 </suite>

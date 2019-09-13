@@ -7,6 +7,7 @@
         <methods>
           <include name="browsersetup"/>
           <include name="setup"/>
+          <include name="closeSetup"/>
         </methods>
       </class> <!-- com.openmrs.testscript.Login -->
     </classes>

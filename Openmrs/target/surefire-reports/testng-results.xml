@@ -1,77 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="1" failed="0" ignored="0" total="1" passed="0">
+<testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="40625" started-at="2019-09-11T19:13:12 IST" finished-at="2019-09-11T19:13:53 IST">
+  <suite name="Suite" duration-ms="28349" started-at="2019-09-13T18:22:21 IST" finished-at="2019-09-13T18:22:49 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="40625" started-at="2019-09-11T19:13:12 IST" finished-at="2019-09-11T19:13:53 IST">
+    <test name="Test" duration-ms="28349" started-at="2019-09-13T18:22:21 IST" finished-at="2019-09-13T18:22:49 IST">
       <class name="com.openmrs.testscript.Login">
-        <test-method status="FAIL" signature="browsersetup()[pri:0, instance:com.openmrs.testscript.Login@5b275dab]" name="browsersetup" is-config="true" duration-ms="40541" started-at="2019-09-11T19:13:12 IST" finished-at="2019-09-11T19:13:53 IST">
-          <exception class="java.util.NoSuchElementException">
-            <message>
-              <![CDATA[No line found]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.util.NoSuchElementException: No line found
-at java.util.Scanner.nextLine(Unknown Source)
-at com.openmrs.testbase.BrowserInvoke.BrowserSelect(BrowserInvoke.java:25)
-at com.openmrs.testscript.Login.browsersetup(Login.java:16)
-at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-at java.lang.reflect.Method.invoke(Unknown Source)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
-at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
-at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:340)
-at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:294)
-at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:623)
-at org.testng.TestRunner.beforeRun(TestRunner.java:613)
-at org.testng.TestRunner.run(TestRunner.java:584)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:396)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:355)
-at org.testng.SuiteRunner.run(SuiteRunner.java:304)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1180)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1175)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1102)
-at org.testng.TestNG.runSuites(TestNG.java:1032)
-at org.testng.TestNG.run(TestNG.java:1000)
-at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:295)
-at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)
-at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:90)
-at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:203)
-at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155)
-at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.util.NoSuchElementException -->
+        <test-method status="PASS" signature="browsersetup()[pri:0, instance:com.openmrs.testscript.Login@397fbdb]" name="browsersetup" is-config="true" duration-ms="7583" started-at="2019-09-13T18:22:21 IST" finished-at="2019-09-13T18:22:28 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browsersetup -->
-        <test-method status="SKIP" signature="setup()[pri:1, instance:com.openmrs.testscript.Login@5b275dab]" name="setup" duration-ms="0" started-at="2019-09-11T19:13:53 IST" finished-at="2019-09-11T19:13:53 IST">
-          <exception class="java.util.NoSuchElementException">
+        <test-method status="FAIL" signature="setup()[pri:0, instance:com.openmrs.testscript.Login@397fbdb]" name="setup" duration-ms="20446" started-at="2019-09-13T18:22:28 IST" finished-at="2019-09-13T18:22:49 IST">
+          <exception class="java.lang.StringIndexOutOfBoundsException">
             <message>
-              <![CDATA[No line found]]>
+              <![CDATA[String index out of range: 20]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.util.NoSuchElementException: No line found
-at java.util.Scanner.nextLine(Unknown Source)
-at com.openmrs.testbase.BrowserInvoke.BrowserSelect(BrowserInvoke.java:25)
-at com.openmrs.testscript.Login.browsersetup(Login.java:16)
+              <![CDATA[java.lang.StringIndexOutOfBoundsException: String index out of range: 20
+at java.lang.String.substring(Unknown Source)
+at com.openmrs.utils.UtilityFiles.expectedresult(UtilityFiles.java:127)
+at com.openmrs.pages.DataValandSubmit.validationandsubmit(DataValandSubmit.java:20)
+at com.openmrs.testscript.Login.setup(Login.java:36)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
 at java.lang.reflect.Method.invoke(Unknown Source)
 at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
-at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
-at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:340)
-at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:294)
-at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:623)
-at org.testng.TestRunner.beforeRun(TestRunner.java:613)
-at org.testng.TestRunner.run(TestRunner.java:584)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:584)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:770)
+at org.testng.TestRunner.run(TestRunner.java:591)
 at org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
 at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:396)
 at org.testng.SuiteRunner.privateRun(SuiteRunner.java:355)
@@ -91,14 +56,18 @@ at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter
 at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
 ]]>
             </full-stacktrace>
-          </exception> <!-- java.util.NoSuchElementException -->
+          </exception> <!-- java.lang.StringIndexOutOfBoundsException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
+        <test-method status="PASS" signature="closeSetup()[pri:0, instance:com.openmrs.testscript.Login@397fbdb]" name="closeSetup" is-config="true" duration-ms="264" started-at="2019-09-13T18:22:49 IST" finished-at="2019-09-13T18:22:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSetup -->
       </class> <!-- com.openmrs.testscript.Login -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
-  <suite name="Openmrs" duration-ms="0" started-at="2019-09-11T19:13:53 IST" finished-at="2019-09-11T19:13:53 IST">
+  <suite name="Openmrs" duration-ms="0" started-at="2019-09-13T18:22:49 IST" finished-at="2019-09-13T18:22:49 IST">
     <groups>
     </groups>
   </suite> <!-- Openmrs -->

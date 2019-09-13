@@ -2,6 +2,9 @@ package com.openmrs.utils;
 
 import static org.testng.Assert.assertEquals;
 
+
+import java.io.IOException;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;
@@ -9,12 +12,20 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
 
+import java.util.ArrayList;
+import java.util.List;
+
+import com.openmrs.classpath.Classpath;
+import com.openmrs.helper.ReadpropertiesFile;
+import com.openmrs.helper.XlxsReader;
 import com.openmrs.testbase.BrowserInvoke;
 
 public class UtilityFiles extends BrowserInvoke {
 
 	WebElement element;
-	static String data;
+	public static ReadpropertiesFile readprop = new ReadpropertiesFile();
+	public static XlxsReader reader = UtilityFiles.getXlsReader(Classpath.Excel_file1);
+	public static XlxsReader testreader = UtilityFiles.getXlsReader(Classpath.Excel_file);
 
 	public void geturl(String string) {
 
@@ -35,25 +46,21 @@ public class UtilityFiles extends BrowserInvoke {
 		months.selectByIndex(index);
 	}
 
-	public void entertext(String xpath, String text) {
-
-		driver.findElement(By.xpath(xpath)).sendKeys(text);
-	}
-
-	public void id(String linktext, String text) {
-		driver.findElement(By.id(linktext)).sendKeys(text);
+	public void enterText(String Xpath, String name, int index) {
+		String val = reader.getCellDataByColumnName("Sheet1", name, index);
+		driver.findElement(By.xpath(Xpath)).sendKeys(val);
 
 	}
 
-	public void scrollintoview() throws InterruptedException {
+	public void scrollintoview() {
 
 		JavascriptExecutor javascript = (JavascriptExecutor) driver;
 
-		javascript.executeScript("window.scrollBy(0,800)");
+		javascript.executeScript("window.scrollBy(0,1000)");
 		javascript.executeScript("arguments[0].scrollIntoView();", element);
 	}
 
-	public void closeDriver() throws InterruptedException {
+	public void closeDriver()  {
 
 		driver.close();
 	}
@@ -92,27 +99,59 @@ public class UtilityFiles extends BrowserInvoke {
 		return isDisplayed;
 	}
 
-	public static void equalassert(String Xpath) {
-		// String[] val;
-
-		String name = driver.findElement(By.xpath(Xpath)).getText();
-		// assertEquals(val[], name);
-
-	}
-
-	public static String getPId(String Xpath) {
+	public static String getactual(String Xpath) {
 		String getstring = driver.findElement(By.xpath(Xpath)).getText();
 		return getstring;
 	}
 
-	public static String[] getexpected(String symbol) {
+	public static List<String> getexpected(String symbol) {
+		String data = readprop.getValue("test.data");
 		String[] contents = data.split(symbol);
-		return contents;
+		List<String> list = new ArrayList<String>();
+		for (String arr : contents)
+			list.add(arr);
+		return list;
 	}
 
-	public void assertequals(String actual, String expected,String message) {
+	public static XlxsReader getXlsReader(String testDataFile) {
+		XlxsReader xlsReader = new XlxsReader();
+
+		try {
+			xlsReader.setPath(testDataFile);
+		} catch (IOException ioException) {
+			return null;
+		}
+		return xlsReader;
+	}
+
+	public static String expectedresult(String Xpath, int beginindex, int endindex) {
+		String name = driver.findElement(By.xpath(Xpath)).getText().substring(beginindex, endindex);
+		return name;
+	}
+
+	public static String testresult(String sheetno, String sheetname, int index) {
+		String dataname = reader.getCellDataByColumnName(sheetno, sheetname, index);
+		System.out.println(dataname);
+		return dataname;
+	}
+
+	public static String dataresult(String sheetno, String sheetname, int index) {
+		String dataname = testreader.getCellDataByColumnName(sheetno, sheetname, index);
+		System.out.println(dataname);
+		return dataname;
+	}
+
+	public void assertequals(String actual, String expected, String message) {
 		assertEquals(actual, expected);
 		System.out.println(message);
 	}
 
+	public void entertext(String Xpath, String text) {
+		// TODO Auto-generated method stub
+		driver.findElement(By.xpath(Xpath)).sendKeys(text);
+	}
 }
+/*
+ * public static void main(String[] args) { String n = expectedresult(null, 6,
+ * 14); System.out.println(n); }
+ */

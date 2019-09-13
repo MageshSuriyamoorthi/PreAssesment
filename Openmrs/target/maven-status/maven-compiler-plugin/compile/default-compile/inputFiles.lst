@@ -1,6 +1,11 @@
 D:\new\eclipse-workspace\Openmrs\src\main\java\com\openmrs\helper\ReadpropertiesFile.java
 D:\new\eclipse-workspace\Openmrs\src\main\java\com\openmrs\pages\Loginpage.java
-D:\new\eclipse-workspace\Openmrs\src\main\java\com\openmrs\helper\ReadXlxsFile.java
+D:\new\eclipse-workspace\Openmrs\src\main\java\com\openmrs\pages\OPRegister.java
+D:\new\eclipse-workspace\Openmrs\src\main\java\com\openmrs\helper\XlxsReader.java
+D:\new\eclipse-workspace\Openmrs\src\main\java\com\openmrs\pages\DataManagement.java
+D:\new\eclipse-workspace\Openmrs\src\main\java\com\openmrs\pages\strunf.java
 D:\new\eclipse-workspace\Openmrs\src\main\java\com\openmrs\testbase\BrowserInvoke.java
+D:\new\eclipse-workspace\Openmrs\src\main\java\com\openmrs\pages\DataValandSubmit.java
 D:\new\eclipse-workspace\Openmrs\src\main\java\com\openmrs\classpath\Classpath.java
 D:\new\eclipse-workspace\Openmrs\src\main\java\com\openmrs\utils\UtilityFiles.java
+D:\new\eclipse-workspace\Openmrs\src\main\java\com\openmrs\reports\log4j.java
