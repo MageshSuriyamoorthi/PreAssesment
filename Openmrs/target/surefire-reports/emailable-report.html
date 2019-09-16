@@ -9,16 +9,15 @@
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
 <tr><th colspan="7">Suite</th></tr>
-<tr><td><a href="#t0">Test</a></td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">28,349</td><td></td><td></td></tr>
+<tr><td><a href="#t0">Test</a></td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">23,684</td><td></td><td></td></tr>
 <tr><th colspan="7">Openmrs</th></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">com.openmrs.testscript.Login</td><td><a href="#m0">setup</a></td><td rowspan="1">1568379148866</td><td rowspan="1">20446</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">com.openmrs.testscript.Login</td><td><a href="#m0">setup</a></td><td rowspan="1">1568615884811</td><td rowspan="1">15668</td></tr></tbody>
 <tbody><tr><th colspan="4">Openmrs</th></tr></tbody></table>
-<h2>Test</h2><h3 id="m0">com.openmrs.testscript.Login#setup</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.StringIndexOutOfBoundsException: String index out of range: 20
-	at java.lang.String.substring(Unknown Source)
-	at com.openmrs.utils.UtilityFiles.expectedresult(UtilityFiles.java:127)
-	at com.openmrs.pages.DataValandSubmit.validationandsubmit(DataValandSubmit.java:20)
-	at com.openmrs.testscript.Login.setup(Login.java:36)
+<h2>Test</h2><h3 id="m0">com.openmrs.testscript.Login#setup</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.NullPointerException
+	at com.openmrs.utils.UtilityFiles.enterText(UtilityFiles.java:50)
+	at com.openmrs.pages.OPRegister.OPEntry(OPRegister.java:18)
+	at com.openmrs.testscript.Login.setup(Login.java:33)
 	at java.util.ArrayList.forEach(Unknown Source)
 ... Removed 31 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>

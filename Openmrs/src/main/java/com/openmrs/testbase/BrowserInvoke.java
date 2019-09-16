@@ -39,7 +39,7 @@ public class BrowserInvoke {
 			driver = new EdgeDriver();
 		}
 		// properties.loadproperty("browser").
-		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
 	}
 
 	public void BrowserClose() {

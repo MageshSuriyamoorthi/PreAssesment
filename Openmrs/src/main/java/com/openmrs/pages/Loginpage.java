@@ -1,33 +1,37 @@
 package com.openmrs.pages;
 
 import com.openmrs.helper.ReadpropertiesFile;
-
+import com.openmrs.reports.log4j;
 import com.openmrs.testbase.BrowserInvoke;
 import com.openmrs.utils.UtilityFiles;
 
 public class Loginpage {
 	public static String actual, id, list;
+	log4j logreport = new log4j();
 
 	BrowserInvoke browser = new BrowserInvoke();
 
 	UtilityFiles util = new UtilityFiles();
 	public ReadpropertiesFile prop = new ReadpropertiesFile();
-
+//Url is loaded from .properties file
 	public void openmrsdemo() {
 		util.geturl(prop.getValue("locators.url"));
+		logreport.info("Url loaded");
 		util.maximize();
 	}
-
+//login credentials were entered and registration location is clicked and logged in
 	public void logincredentials() {
 		util.entertext(prop.getValue("locators.text.uname"), "admin");
 		util.entertext(prop.getValue("locators.text.password"), "Admin123");
 		util.ClickElement(prop.getValue("locators.button.regdesk"));
 		util.ClickElement(prop.getValue("locators.button.login"));
+		logreport.info("logged into the application");
 
 	}
-
+//OP register button is clicked
 	public void patientsCredentials() {
 		util.ClickElement(prop.getValue("locators.register.click"));
+		logreport.info("Patient registration is clicked");
 	}
 }
 

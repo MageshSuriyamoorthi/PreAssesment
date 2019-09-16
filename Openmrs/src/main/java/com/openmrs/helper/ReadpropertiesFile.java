@@ -17,8 +17,8 @@ public class ReadpropertiesFile {
 
 	// loads all files
 	public ReadpropertiesFile() {
-		List<String> propsFiles = Arrays.asList(Classpath.loc_file, Classpath.test1_file, Classpath.url_file,
-				Classpath.register_file, Classpath.search_file, Classpath.datamanage_file);
+		List<String> propsFiles = Arrays.asList(Classpath.loc_file, Classpath.url_file, Classpath.register_file,
+				Classpath.search_file, Classpath.datamanage_file);
 
 		for (String filePath : propsFiles) {
 			try {

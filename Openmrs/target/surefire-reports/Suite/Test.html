@@ -57,9 +57,9 @@ function toggleAllBoxes() {
 <tr>
 <td>Tests passed/Failed/Skipped:</td><td>0/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Fri Sep 13 18:22:21 IST 2019</td>
+<td>Started on:</td><td>Mon Sep 16 12:07:56 IST 2019</td>
 </tr>
-<tr><td>Total time:</td><td>28 seconds (28349 ms)</td>
+<tr><td>Total time:</td><td>23 seconds (23684 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -76,18 +76,16 @@ function toggleAllBoxes() {
 </tr>
 <tr>
 <td title='com.openmrs.testscript.Login.setup()'><b>setup</b><br>Test class: com.openmrs.testscript.Login</td>
-<td><div><pre>java.lang.StringIndexOutOfBoundsException: String index out of range: 20
-	at java.lang.String.substring(Unknown Source)
-	at com.openmrs.utils.UtilityFiles.expectedresult(UtilityFiles.java:127)
-	at com.openmrs.pages.DataValandSubmit.validationandsubmit(DataValandSubmit.java:20)
-	at com.openmrs.testscript.Login.setup(Login.java:36)
+<td><div><pre>java.lang.NullPointerException
+	at com.openmrs.utils.UtilityFiles.enterText(UtilityFiles.java:50)
+	at com.openmrs.pages.OPRegister.OPEntry(OPRegister.java:18)
+	at com.openmrs.testscript.Login.setup(Login.java:33)
 	at java.util.ArrayList.forEach(Unknown Source)
-... Removed 31 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace97901029", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace97901029'><pre>java.lang.StringIndexOutOfBoundsException: String index out of range: 20
-	at java.lang.String.substring(Unknown Source)
-	at com.openmrs.utils.UtilityFiles.expectedresult(UtilityFiles.java:127)
-	at com.openmrs.pages.DataValandSubmit.validationandsubmit(DataValandSubmit.java:20)
-	at com.openmrs.testscript.Login.setup(Login.java:36)
+... Removed 31 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace2100440237", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace2100440237'><pre>java.lang.NullPointerException
+	at com.openmrs.utils.UtilityFiles.enterText(UtilityFiles.java:50)
+	at com.openmrs.pages.OPRegister.OPEntry(OPRegister.java:18)
+	at com.openmrs.testscript.Login.setup(Login.java:33)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -121,8 +119,8 @@ function toggleAllBoxes() {
 	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155)
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
 </pre></div></td>
-<td>20</td>
-<td>com.openmrs.testscript.Login@397fbdb</td></tr>
+<td>15</td>
+<td>com.openmrs.testscript.Login@1e127982</td></tr>
 </table><p>
 </body>
 </html>

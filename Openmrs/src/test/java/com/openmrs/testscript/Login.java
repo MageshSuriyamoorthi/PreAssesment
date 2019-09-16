@@ -33,16 +33,19 @@ public class Login {
 		register.OPEntry(1);
 
 		val.validationandsubmit(1);
-		val.PatientSearch();
+		val.PatientSearch(1);
 
 		login.patientsCredentials();
-		
+
 		register.OPEntry(2);
 
 		val.validationandsubmit(2);
-		val.PatientSearch();
-		
+		val.PatientSearch(2);
+
 		manage.datamanagement();
+		manage.datamerge();
+		manage.mergerecords();
+		manage.validate();
 	}
 
 	@AfterTest

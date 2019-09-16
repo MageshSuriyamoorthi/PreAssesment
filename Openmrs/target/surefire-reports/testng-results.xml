@@ -2,26 +2,22 @@
 <testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="28349" started-at="2019-09-13T18:22:21 IST" finished-at="2019-09-13T18:22:49 IST">
+  <suite name="Suite" duration-ms="23684" started-at="2019-09-16T12:07:56 IST" finished-at="2019-09-16T12:08:20 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="28349" started-at="2019-09-13T18:22:21 IST" finished-at="2019-09-13T18:22:49 IST">
+    <test name="Test" duration-ms="23684" started-at="2019-09-16T12:07:56 IST" finished-at="2019-09-16T12:08:20 IST">
       <class name="com.openmrs.testscript.Login">
-        <test-method status="PASS" signature="browsersetup()[pri:0, instance:com.openmrs.testscript.Login@397fbdb]" name="browsersetup" is-config="true" duration-ms="7583" started-at="2019-09-13T18:22:21 IST" finished-at="2019-09-13T18:22:28 IST">
+        <test-method status="PASS" signature="browsersetup()[pri:0, instance:com.openmrs.testscript.Login@1e127982]" name="browsersetup" is-config="true" duration-ms="7942" started-at="2019-09-16T12:07:56 IST" finished-at="2019-09-16T12:08:04 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browsersetup -->
-        <test-method status="FAIL" signature="setup()[pri:0, instance:com.openmrs.testscript.Login@397fbdb]" name="setup" duration-ms="20446" started-at="2019-09-13T18:22:28 IST" finished-at="2019-09-13T18:22:49 IST">
-          <exception class="java.lang.StringIndexOutOfBoundsException">
-            <message>
-              <![CDATA[String index out of range: 20]]>
-            </message>
+        <test-method status="FAIL" signature="setup()[pri:0, instance:com.openmrs.testscript.Login@1e127982]" name="setup" duration-ms="15668" started-at="2019-09-16T12:08:04 IST" finished-at="2019-09-16T12:08:20 IST">
+          <exception class="java.lang.NullPointerException">
             <full-stacktrace>
-              <![CDATA[java.lang.StringIndexOutOfBoundsException: String index out of range: 20
-at java.lang.String.substring(Unknown Source)
-at com.openmrs.utils.UtilityFiles.expectedresult(UtilityFiles.java:127)
-at com.openmrs.pages.DataValandSubmit.validationandsubmit(DataValandSubmit.java:20)
-at com.openmrs.testscript.Login.setup(Login.java:36)
+              <![CDATA[java.lang.NullPointerException
+at com.openmrs.utils.UtilityFiles.enterText(UtilityFiles.java:50)
+at com.openmrs.pages.OPRegister.OPEntry(OPRegister.java:18)
+at com.openmrs.testscript.Login.setup(Login.java:33)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -56,18 +52,18 @@ at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter
 at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
 ]]>
             </full-stacktrace>
-          </exception> <!-- java.lang.StringIndexOutOfBoundsException -->
+          </exception> <!-- java.lang.NullPointerException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="closeSetup()[pri:0, instance:com.openmrs.testscript.Login@397fbdb]" name="closeSetup" is-config="true" duration-ms="264" started-at="2019-09-13T18:22:49 IST" finished-at="2019-09-13T18:22:49 IST">
+        <test-method status="PASS" signature="closeSetup()[pri:0, instance:com.openmrs.testscript.Login@1e127982]" name="closeSetup" is-config="true" duration-ms="0" started-at="2019-09-16T12:08:20 IST" finished-at="2019-09-16T12:08:20 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeSetup -->
       </class> <!-- com.openmrs.testscript.Login -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
-  <suite name="Openmrs" duration-ms="0" started-at="2019-09-13T18:22:49 IST" finished-at="2019-09-13T18:22:49 IST">
+  <suite name="Openmrs" duration-ms="0" started-at="2019-09-16T12:08:20 IST" finished-at="2019-09-16T12:08:20 IST">
     <groups>
     </groups>
   </suite> <!-- Openmrs -->

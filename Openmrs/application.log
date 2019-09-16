@@ -1,0 +1,1218 @@
+2019-09-16 11:38:46,619  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 11:38:51,688  INFO [main] log4j:26 - Url loaded
+2019-09-16 11:38:58,461  INFO [main] log4j:26 - logged into the application
+2019-09-16 11:39:02,699  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 11:39:02,912  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 11:39:03,382  INFO [main] log4j:26 - Last name entered
+2019-09-16 11:39:03,738  INFO [main] log4j:26 - Gender clicked
+2019-09-16 11:39:04,747  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 11:39:06,610  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 11:39:06,986  INFO [main] log4j:26 - Phone number entered
+2019-09-16 11:39:07,622  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 11:39:07,888  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 11:39:07,888  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 11:39:07,991  INFO [main] log4j:26 - Male
+2019-09-16 11:39:07,991  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 11:39:08,107  INFO [main] log4j:26 - 12, April, 1993
+2019-09-16 11:39:08,111  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 11:47:42,800  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 11:47:48,750  INFO [main] log4j:26 - Url loaded
+2019-09-16 11:47:55,596  INFO [main] log4j:26 - logged into the application
+2019-09-16 11:48:00,485  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 11:48:00,701  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 11:48:01,197  INFO [main] log4j:26 - Last name entered
+2019-09-16 11:48:01,561  INFO [main] log4j:26 - Gender clicked
+2019-09-16 11:48:02,718  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 11:48:04,550  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 11:48:04,903  INFO [main] log4j:26 - Phone number entered
+2019-09-16 11:48:05,563  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 11:48:05,806  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 11:48:05,806  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 11:48:05,906  INFO [main] log4j:26 - Male
+2019-09-16 11:48:05,910  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 11:48:06,034  INFO [main] log4j:26 - 12, April, 1993
+2019-09-16 11:48:06,034  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 11:51:03,485  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 11:51:08,374  INFO [main] log4j:26 - Url loaded
+2019-09-16 11:51:14,775  INFO [main] log4j:26 - logged into the application
+2019-09-16 11:51:19,191  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 11:51:19,382  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 11:51:19,866  INFO [main] log4j:26 - Last name entered
+2019-09-16 11:51:20,194  INFO [main] log4j:26 - Gender clicked
+2019-09-16 11:51:21,145  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 11:51:22,993  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 11:51:23,314  INFO [main] log4j:26 - Phone number entered
+2019-09-16 11:51:23,942  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 11:51:24,186  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 11:51:24,191  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 11:51:24,292  INFO [main] log4j:26 - Male
+2019-09-16 11:51:24,292  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 11:51:24,408  INFO [main] log4j:26 - 12, April, 1993
+2019-09-16 11:51:24,408  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 12:08:04,726  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 12:08:09,834  INFO [main] log4j:26 - Url loaded
+2019-09-16 12:08:16,276  INFO [main] log4j:26 - logged into the application
+2019-09-16 12:08:20,475  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 12:09:11,038  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 12:09:15,826  INFO [main] log4j:26 - Url loaded
+2019-09-16 12:09:22,187  INFO [main] log4j:26 - logged into the application
+2019-09-16 12:09:26,557  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 12:21:59,000  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 12:23:44,263  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 12:27:42,949  INFO [main] log4j:26 - Url loaded
+2019-09-16 12:28:02,597  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 12:28:06,959  INFO [main] log4j:26 - Url loaded
+2019-09-16 12:28:13,550  INFO [main] log4j:26 - logged into the application
+2019-09-16 12:28:17,223  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 12:28:17,436  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 12:28:18,032  INFO [main] log4j:26 - Last name entered
+2019-09-16 12:28:18,372  INFO [main] log4j:26 - Gender clicked
+2019-09-16 12:28:19,304  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 12:28:21,443  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 12:28:21,804  INFO [main] log4j:26 - Phone number entered
+2019-09-16 12:28:22,412  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 12:28:22,636  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 12:28:22,639  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 12:28:22,727  INFO [main] log4j:26 - Male
+2019-09-16 12:28:22,727  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 12:28:22,827  INFO [main] log4j:26 - 12, March, 1993
+2019-09-16 12:32:22,119  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 12:32:25,960  INFO [main] log4j:26 - Url loaded
+2019-09-16 12:32:32,505  INFO [main] log4j:26 - logged into the application
+2019-09-16 12:32:36,368  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 12:32:36,615  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 12:32:37,139  INFO [main] log4j:26 - Last name entered
+2019-09-16 12:32:37,479  INFO [main] log4j:26 - Gender clicked
+2019-09-16 12:32:38,518  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 12:32:40,585  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 12:32:40,960  INFO [main] log4j:26 - Phone number entered
+2019-09-16 12:32:41,692  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 12:32:41,939  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 12:32:41,939  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 12:32:42,039  INFO [main] log4j:26 - Male
+2019-09-16 12:32:42,039  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 12:32:42,155  INFO [main] log4j:26 - 12, March, 1993
+2019-09-16 12:37:13,965  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 12:37:18,208  INFO [main] log4j:26 - Url loaded
+2019-09-16 12:37:24,705  INFO [main] log4j:26 - logged into the application
+2019-09-16 12:37:28,661  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 12:37:28,871  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 12:37:29,355  INFO [main] log4j:26 - Last name entered
+2019-09-16 12:37:29,715  INFO [main] log4j:26 - Gender clicked
+2019-09-16 12:37:30,643  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 12:37:32,529  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 12:37:32,884  INFO [main] log4j:26 - Phone number entered
+2019-09-16 12:37:33,548  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 12:37:33,789  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 12:37:33,789  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 12:37:33,885  INFO [main] log4j:26 - Male
+2019-09-16 12:37:33,885  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 12:37:33,977  INFO [main] log4j:26 - 12, March, 1993
+2019-09-16 12:43:49,787  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 12:43:53,810  INFO [main] log4j:26 - Url loaded
+2019-09-16 12:44:00,321  INFO [main] log4j:26 - logged into the application
+2019-09-16 12:44:04,434  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 12:44:04,645  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 12:44:05,128  INFO [main] log4j:26 - Last name entered
+2019-09-16 12:44:05,484  INFO [main] log4j:26 - Gender clicked
+2019-09-16 12:44:06,413  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 12:44:08,264  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 12:44:08,650  INFO [main] log4j:26 - Phone number entered
+2019-09-16 12:44:09,294  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 12:44:09,566  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 12:44:09,570  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 12:44:09,666  INFO [main] log4j:26 - Male
+2019-09-16 12:44:09,666  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 12:44:09,758  INFO [main] log4j:26 - 12, June, 1993
+2019-09-16 12:47:30,334  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 12:47:34,287  INFO [main] log4j:26 - Url loaded
+2019-09-16 12:47:40,721  INFO [main] log4j:26 - logged into the application
+2019-09-16 12:47:44,769  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 12:47:44,958  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 12:47:45,458  INFO [main] log4j:26 - Last name entered
+2019-09-16 12:47:45,774  INFO [main] log4j:26 - Gender clicked
+2019-09-16 12:47:47,006  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 12:47:48,887  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 12:47:49,228  INFO [main] log4j:26 - Phone number entered
+2019-09-16 12:47:49,880  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 12:47:50,104  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 12:47:50,107  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 12:47:50,201  INFO [main] log4j:26 - Male
+2019-09-16 12:47:50,205  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 12:47:50,304  INFO [main] log4j:26 - 12, June, 1993
+2019-09-16 12:50:01,461  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 12:50:05,663  INFO [main] log4j:26 - Url loaded
+2019-09-16 12:50:12,389  INFO [main] log4j:26 - logged into the application
+2019-09-16 12:50:16,850  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 12:50:17,110  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 12:50:17,642  INFO [main] log4j:26 - Last name entered
+2019-09-16 12:50:17,994  INFO [main] log4j:26 - Gender clicked
+2019-09-16 12:50:19,078  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 12:50:20,951  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 12:50:21,333  INFO [main] log4j:26 - Phone number entered
+2019-09-16 12:50:21,973  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 12:50:22,217  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 12:50:22,221  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 12:50:22,321  INFO [main] log4j:26 - Male
+2019-09-16 12:50:22,321  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 12:50:22,421  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 12:52:19,994  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 12:52:23,826  INFO [main] log4j:26 - Url loaded
+2019-09-16 12:52:30,238  INFO [main] log4j:26 - logged into the application
+2019-09-16 12:52:33,815  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 12:52:34,025  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 12:52:34,513  INFO [main] log4j:26 - Last name entered
+2019-09-16 12:52:34,825  INFO [main] log4j:26 - Gender clicked
+2019-09-16 12:52:35,806  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 12:52:37,702  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 12:53:03,926  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 12:53:07,771  INFO [main] log4j:26 - Url loaded
+2019-09-16 12:53:14,107  INFO [main] log4j:26 - logged into the application
+2019-09-16 12:53:18,145  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 12:53:18,344  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 12:53:18,848  INFO [main] log4j:26 - Last name entered
+2019-09-16 12:53:19,156  INFO [main] log4j:26 - Gender clicked
+2019-09-16 12:53:20,078  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 12:53:22,032  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 12:53:22,425  INFO [main] log4j:26 - Phone number entered
+2019-09-16 12:53:47,699  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 12:53:51,565  INFO [main] log4j:26 - Url loaded
+2019-09-16 12:53:58,208  INFO [main] log4j:26 - logged into the application
+2019-09-16 12:54:02,432  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 12:54:02,719  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 12:54:03,343  INFO [main] log4j:26 - Last name entered
+2019-09-16 12:54:03,691  INFO [main] log4j:26 - Gender clicked
+2019-09-16 12:58:46,385  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 12:58:50,190  INFO [main] log4j:26 - Url loaded
+2019-09-16 12:58:56,817  INFO [main] log4j:26 - logged into the application
+2019-09-16 12:59:01,149  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 12:59:01,358  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 12:59:01,850  INFO [main] log4j:26 - Last name entered
+2019-09-16 12:59:02,253  INFO [main] log4j:26 - Gender clicked
+2019-09-16 12:59:03,315  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 12:59:05,112  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 12:59:05,503  INFO [main] log4j:26 - Phone number entered
+2019-09-16 12:59:06,131  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 12:59:06,378  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 12:59:06,378  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 12:59:06,482  INFO [main] log4j:26 - Male
+2019-09-16 12:59:06,482  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 12:59:06,586  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 13:03:53,452  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 13:03:57,990  INFO [main] log4j:26 - Url loaded
+2019-09-16 13:04:04,469  INFO [main] log4j:26 - logged into the application
+2019-09-16 13:04:08,645  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 13:04:08,842  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 13:04:09,314  INFO [main] log4j:26 - Last name entered
+2019-09-16 13:04:09,670  INFO [main] log4j:26 - Gender clicked
+2019-09-16 13:04:10,672  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 13:04:12,551  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 13:04:12,911  INFO [main] log4j:26 - Phone number entered
+2019-09-16 13:04:13,506  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 13:04:13,746  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 13:04:13,751  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 13:04:13,843  INFO [main] log4j:26 - Male
+2019-09-16 13:04:13,847  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 13:04:13,951  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 13:07:30,823  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 13:07:34,887  INFO [main] log4j:26 - Url loaded
+2019-09-16 13:07:41,530  INFO [main] log4j:26 - logged into the application
+2019-09-16 13:07:45,286  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 13:07:45,512  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 13:07:46,032  INFO [main] log4j:26 - Last name entered
+2019-09-16 13:07:46,384  INFO [main] log4j:26 - Gender clicked
+2019-09-16 13:07:47,397  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 13:07:49,189  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 13:07:49,537  INFO [main] log4j:26 - Phone number entered
+2019-09-16 13:07:50,197  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 13:07:50,465  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 13:07:50,469  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 13:07:50,569  INFO [main] log4j:26 - Male
+2019-09-16 13:07:50,569  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 13:07:50,669  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 13:11:34,590  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 13:11:38,648  INFO [main] log4j:26 - Url loaded
+2019-09-16 13:11:45,182  INFO [main] log4j:26 - logged into the application
+2019-09-16 13:11:48,979  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 13:11:49,168  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 13:11:49,748  INFO [main] log4j:26 - Last name entered
+2019-09-16 13:11:50,084  INFO [main] log4j:26 - Gender clicked
+2019-09-16 13:11:51,083  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 13:11:53,083  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 13:11:53,499  INFO [main] log4j:26 - Phone number entered
+2019-09-16 13:11:54,131  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 13:11:54,350  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 13:11:54,354  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 13:11:54,446  INFO [main] log4j:26 - Male
+2019-09-16 13:11:54,446  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 13:11:54,546  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 13:16:29,782  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 13:16:34,902  INFO [main] log4j:26 - Url loaded
+2019-09-16 13:16:41,712  INFO [main] log4j:26 - logged into the application
+2019-09-16 13:16:47,451  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 13:16:47,651  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 13:16:48,103  INFO [main] log4j:26 - Last name entered
+2019-09-16 13:16:48,411  INFO [main] log4j:26 - Gender clicked
+2019-09-16 13:16:49,450  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 13:16:51,453  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 13:16:51,800  INFO [main] log4j:26 - Phone number entered
+2019-09-16 13:16:52,553  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 13:16:52,809  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 13:16:52,813  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 13:16:52,909  INFO [main] log4j:26 - Male
+2019-09-16 13:16:52,909  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 13:16:53,013  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 13:21:54,457  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 13:21:58,783  INFO [main] log4j:26 - Url loaded
+2019-09-16 13:22:05,352  INFO [main] log4j:26 - logged into the application
+2019-09-16 13:22:10,375  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 13:22:10,584  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 13:22:11,056  INFO [main] log4j:26 - Last name entered
+2019-09-16 13:22:11,476  INFO [main] log4j:26 - Gender clicked
+2019-09-16 13:22:12,803  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 13:22:14,899  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 13:22:15,270  INFO [main] log4j:26 - Phone number entered
+2019-09-16 13:22:15,886  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 13:22:16,122  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 13:22:16,128  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 13:22:16,216  INFO [main] log4j:26 - Male
+2019-09-16 13:22:16,216  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 13:22:16,316  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 13:22:16,316  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 13:22:27,324  INFO [main] log4j:29 - false
+2019-09-16 13:22:29,729  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 13:22:29,929  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 13:22:30,393  INFO [main] log4j:26 - Last name entered
+2019-09-16 13:22:30,733  INFO [main] log4j:26 - Gender clicked
+2019-09-16 13:22:32,071  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 13:22:34,088  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 13:22:34,412  INFO [main] log4j:26 - Phone number entered
+2019-09-16 13:22:35,112  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 13:22:35,427  INFO [main] log4j:26 - QQQ, VVV
+2019-09-16 13:22:35,427  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 13:22:35,615  INFO [main] log4j:26 - Male
+2019-09-16 13:22:35,615  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 13:22:35,775  INFO [main] log4j:26 - 21, October, 2001
+2019-09-16 14:29:43,341  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 14:29:50,736  INFO [main] log4j:26 - Url loaded
+2019-09-16 14:29:57,305  INFO [main] log4j:26 - logged into the application
+2019-09-16 14:30:09,323  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 14:30:09,542  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 14:30:09,993  INFO [main] log4j:26 - Last name entered
+2019-09-16 14:30:10,327  INFO [main] log4j:26 - Gender clicked
+2019-09-16 14:30:11,430  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 14:30:13,359  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 14:30:13,761  INFO [main] log4j:26 - Phone number entered
+2019-09-16 14:30:14,436  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 14:30:14,686  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 14:30:14,689  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 14:30:14,785  INFO [main] log4j:26 - Male
+2019-09-16 14:30:14,785  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 14:30:14,883  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 14:30:14,884  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 14:30:22,152  INFO [main] log4j:29 - false
+2019-09-16 14:30:28,189  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 14:30:28,346  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 14:30:28,735  INFO [main] log4j:26 - Last name entered
+2019-09-16 14:30:29,031  INFO [main] log4j:26 - Gender clicked
+2019-09-16 14:30:29,992  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 14:30:31,575  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 14:30:31,866  INFO [main] log4j:26 - Phone number entered
+2019-09-16 14:30:32,413  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 14:30:32,608  INFO [main] log4j:26 - QQQ, VVV
+2019-09-16 14:30:32,608  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 14:30:32,687  INFO [main] log4j:26 - Male
+2019-09-16 14:30:32,688  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 14:30:32,776  INFO [main] log4j:26 - 21, October, 2001
+2019-09-16 14:30:32,776  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 14:30:55,368  INFO [main] log4j:29 - false
+2019-09-16 14:30:59,033  INFO [main] log4j:26 - data merge button is clicked
+2019-09-16 14:48:05,048  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 14:48:14,577  INFO [main] log4j:26 - Url loaded
+2019-09-16 14:48:22,732  INFO [main] log4j:26 - logged into the application
+2019-09-16 14:48:34,707  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 14:48:34,925  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 14:48:35,593  INFO [main] log4j:26 - Last name entered
+2019-09-16 14:48:35,957  INFO [main] log4j:26 - Gender clicked
+2019-09-16 14:48:37,218  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 14:48:39,655  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 14:48:40,036  INFO [main] log4j:26 - Phone number entered
+2019-09-16 14:48:40,756  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 14:48:40,998  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 14:48:40,998  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 14:48:41,106  INFO [main] log4j:26 - Male
+2019-09-16 14:48:41,106  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 14:48:41,222  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 14:48:41,222  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 14:48:58,344  INFO [main] log4j:29 - false
+2019-09-16 14:49:00,909  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 14:49:01,106  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 14:49:01,574  INFO [main] log4j:26 - Last name entered
+2019-09-16 14:49:01,870  INFO [main] log4j:26 - Gender clicked
+2019-09-16 14:49:03,230  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 14:49:05,182  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 14:49:05,547  INFO [main] log4j:26 - Phone number entered
+2019-09-16 14:50:02,035  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 14:50:07,733  INFO [main] log4j:26 - Url loaded
+2019-09-16 14:50:14,232  INFO [main] log4j:26 - logged into the application
+2019-09-16 14:50:22,126  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 14:50:22,365  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 14:50:22,889  INFO [main] log4j:26 - Last name entered
+2019-09-16 14:50:23,221  INFO [main] log4j:26 - Gender clicked
+2019-09-16 14:50:24,325  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 14:50:26,249  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 14:50:26,619  INFO [main] log4j:26 - Phone number entered
+2019-09-16 14:50:27,271  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 14:50:27,497  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 14:50:27,501  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 14:50:27,621  INFO [main] log4j:26 - Male
+2019-09-16 14:50:27,621  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 14:50:27,729  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 14:50:27,729  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 14:50:31,394  INFO [main] log4j:29 - false
+2019-09-16 14:50:33,593  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 14:50:33,775  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 14:50:34,259  INFO [main] log4j:26 - Last name entered
+2019-09-16 14:50:34,575  INFO [main] log4j:26 - Gender clicked
+2019-09-16 14:50:35,606  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 14:50:37,409  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 14:50:37,739  INFO [main] log4j:26 - Phone number entered
+2019-09-16 14:50:38,566  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 14:50:38,920  INFO [main] log4j:26 - QQQ, VVV
+2019-09-16 14:50:38,920  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 14:50:39,040  INFO [main] log4j:26 - Male
+2019-09-16 14:50:39,040  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 14:50:39,184  INFO [main] log4j:26 - 21, October, 2001
+2019-09-16 14:50:39,188  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 14:50:49,569  INFO [main] log4j:29 - false
+2019-09-16 14:50:53,624  INFO [main] log4j:26 - data merge button is clicked
+2019-09-16 15:01:09,068  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 15:01:13,779  INFO [main] log4j:26 - Url loaded
+2019-09-16 15:01:20,257  INFO [main] log4j:26 - logged into the application
+2019-09-16 15:01:27,955  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 15:01:28,163  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 15:01:28,622  INFO [main] log4j:26 - Last name entered
+2019-09-16 15:01:28,970  INFO [main] log4j:26 - Gender clicked
+2019-09-16 15:01:30,146  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 15:01:32,043  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 15:01:32,388  INFO [main] log4j:26 - Phone number entered
+2019-09-16 15:01:33,008  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 15:01:33,252  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 15:01:33,254  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 15:01:33,351  INFO [main] log4j:26 - Male
+2019-09-16 15:01:33,351  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 15:01:33,467  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 15:01:33,467  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 15:01:48,223  INFO [main] log4j:29 - false
+2019-09-16 15:01:50,763  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 15:01:50,973  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 15:01:51,489  INFO [main] log4j:26 - Last name entered
+2019-09-16 15:01:51,865  INFO [main] log4j:26 - Gender clicked
+2019-09-16 15:01:53,318  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 15:04:01,438  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 15:04:05,297  INFO [main] log4j:26 - Url loaded
+2019-09-16 15:04:11,702  INFO [main] log4j:26 - logged into the application
+2019-09-16 15:04:17,858  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 15:04:18,067  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 15:04:18,551  INFO [main] log4j:26 - Last name entered
+2019-09-16 15:04:18,911  INFO [main] log4j:26 - Gender clicked
+2019-09-16 15:04:20,135  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 15:04:22,071  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 15:04:22,453  INFO [main] log4j:26 - Phone number entered
+2019-09-16 15:04:23,089  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 15:04:23,333  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 15:04:23,333  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 15:04:23,469  INFO [main] log4j:26 - Male
+2019-09-16 15:04:23,473  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 15:04:23,577  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 15:04:23,581  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 15:04:37,876  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 15:04:38,059  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 15:04:38,563  INFO [main] log4j:26 - Last name entered
+2019-09-16 15:04:38,927  INFO [main] log4j:26 - Gender clicked
+2019-09-16 15:25:54,298  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 15:25:58,233  INFO [main] log4j:26 - Url loaded
+2019-09-16 15:26:04,854  INFO [main] log4j:26 - logged into the application
+2019-09-16 15:26:11,275  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 15:26:11,492  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 15:26:12,012  INFO [main] log4j:26 - Last name entered
+2019-09-16 15:26:12,324  INFO [main] log4j:26 - Gender clicked
+2019-09-16 15:26:13,467  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 15:26:15,361  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 15:26:15,700  INFO [main] log4j:26 - Phone number entered
+2019-09-16 15:26:16,332  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 15:26:16,560  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 15:26:16,564  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 15:26:16,657  INFO [main] log4j:26 - Male
+2019-09-16 15:26:16,657  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 15:26:16,749  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 15:26:16,753  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 15:26:28,528  INFO [main] log4j:29 - false
+2019-09-16 15:26:31,179  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 15:26:31,362  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 15:26:31,834  INFO [main] log4j:26 - Last name entered
+2019-09-16 15:26:32,126  INFO [main] log4j:26 - Gender clicked
+2019-09-16 15:26:33,174  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 15:26:35,378  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 15:26:35,758  INFO [main] log4j:26 - Phone number entered
+2019-09-16 15:26:36,493  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 15:26:36,786  INFO [main] log4j:26 - QQQ, VVV
+2019-09-16 15:26:36,786  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 15:26:36,886  INFO [main] log4j:26 - Male
+2019-09-16 15:26:36,886  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 15:26:36,986  INFO [main] log4j:26 - 21, October, 2001
+2019-09-16 15:26:36,986  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 15:33:36,661  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 15:33:40,592  INFO [main] log4j:26 - Url loaded
+2019-09-16 15:33:47,212  INFO [main] log4j:26 - logged into the application
+2019-09-16 15:33:51,634  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 15:33:51,834  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 15:33:52,330  INFO [main] log4j:26 - Last name entered
+2019-09-16 15:33:52,706  INFO [main] log4j:26 - Gender clicked
+2019-09-16 15:33:53,884  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 15:33:55,897  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 15:33:56,342  INFO [main] log4j:26 - Phone number entered
+2019-09-16 15:33:56,994  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 15:33:57,285  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 15:33:57,285  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 15:33:57,381  INFO [main] log4j:26 - Male
+2019-09-16 15:33:57,385  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 15:33:57,501  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 15:33:57,501  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 15:34:10,623  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 15:34:10,807  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 15:34:11,306  INFO [main] log4j:26 - Last name entered
+2019-09-16 15:34:11,630  INFO [main] log4j:26 - Gender clicked
+2019-09-16 15:34:12,929  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 15:34:15,455  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 15:34:15,860  INFO [main] log4j:26 - Phone number entered
+2019-09-16 15:34:16,659  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 15:34:16,917  INFO [main] log4j:26 - QQQ, VVV
+2019-09-16 15:34:16,917  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 15:34:17,061  INFO [main] log4j:26 - Male
+2019-09-16 15:34:17,061  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 15:34:17,165  INFO [main] log4j:26 - 21, October, 2001
+2019-09-16 15:34:17,169  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 15:34:27,295  INFO [main] log4j:26 - data merge button is clicked
+2019-09-16 15:35:46,354  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 15:35:50,241  INFO [main] log4j:26 - Url loaded
+2019-09-16 15:35:56,907  INFO [main] log4j:26 - logged into the application
+2019-09-16 15:36:02,203  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 15:36:02,463  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 15:36:03,047  INFO [main] log4j:26 - Last name entered
+2019-09-16 15:36:03,403  INFO [main] log4j:26 - Gender clicked
+2019-09-16 15:36:04,575  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 15:36:06,524  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 15:36:06,851  INFO [main] log4j:26 - Phone number entered
+2019-09-16 15:36:07,479  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 15:36:07,698  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 15:36:07,701  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 15:36:07,785  INFO [main] log4j:26 - Male
+2019-09-16 15:36:07,785  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 15:36:07,881  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 15:36:07,885  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 15:36:18,970  INFO [main] log4j:29 - false
+2019-09-16 15:36:20,985  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 15:36:21,171  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 15:36:21,631  INFO [main] log4j:26 - Last name entered
+2019-09-16 15:36:21,959  INFO [main] log4j:26 - Gender clicked
+2019-09-16 15:36:23,258  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 15:36:25,780  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 15:36:26,254  INFO [main] log4j:26 - Phone number entered
+2019-09-16 15:36:26,942  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 15:36:27,263  INFO [main] log4j:26 - QQQ, VVV
+2019-09-16 15:36:27,263  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 15:36:27,375  INFO [main] log4j:26 - Male
+2019-09-16 15:36:27,375  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 15:36:27,499  INFO [main] log4j:26 - 21, October, 2001
+2019-09-16 15:36:27,503  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 16:45:50,366  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 16:45:54,825  INFO [main] log4j:26 - Url loaded
+2019-09-16 16:46:01,373  INFO [main] log4j:26 - logged into the application
+2019-09-16 16:46:06,102  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 16:46:06,291  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 16:46:06,772  INFO [main] log4j:26 - Last name entered
+2019-09-16 16:46:07,208  INFO [main] log4j:26 - Gender clicked
+2019-09-16 16:46:08,460  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 16:46:10,577  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 16:46:11,011  INFO [main] log4j:26 - Phone number entered
+2019-09-16 16:46:11,711  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 16:46:11,985  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 16:46:11,988  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 16:46:12,085  INFO [main] log4j:26 - Male
+2019-09-16 16:46:12,086  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 16:46:12,205  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 16:46:12,206  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 16:47:46,548  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 16:47:50,846  INFO [main] log4j:26 - Url loaded
+2019-09-16 16:47:57,339  INFO [main] log4j:26 - logged into the application
+2019-09-16 16:48:01,328  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 16:48:01,534  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 16:48:02,042  INFO [main] log4j:26 - Last name entered
+2019-09-16 16:48:02,381  INFO [main] log4j:26 - Gender clicked
+2019-09-16 16:48:03,507  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 16:48:05,366  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 16:48:05,730  INFO [main] log4j:26 - Phone number entered
+2019-09-16 16:48:06,386  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 16:48:06,645  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 16:48:06,649  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 16:48:06,748  INFO [main] log4j:26 - Male
+2019-09-16 16:48:06,748  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 16:48:06,853  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 16:48:06,855  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 16:48:17,352  INFO [main] log4j:26 - AAA BBB
+2019-09-16 16:48:17,352  INFO [main] log4j:26 - verified
+2019-09-16 16:48:17,475  INFO [main] log4j:26 - PASS : verified
+2019-09-16 16:48:17,476  INFO [main] log4j:29 - true
+2019-09-16 16:48:19,558  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 16:48:19,749  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 16:48:20,313  INFO [main] log4j:26 - Last name entered
+2019-09-16 16:48:20,600  INFO [main] log4j:26 - Gender clicked
+2019-09-16 16:48:21,642  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 16:48:23,346  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 16:48:23,643  INFO [main] log4j:26 - Phone number entered
+2019-09-16 16:48:24,205  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 16:48:24,413  INFO [main] log4j:26 - QQQ, VVV
+2019-09-16 16:48:24,413  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 16:48:24,505  INFO [main] log4j:26 - Male
+2019-09-16 16:48:24,505  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 16:48:24,590  INFO [main] log4j:26 - 21, October, 2001
+2019-09-16 16:48:24,590  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 16:48:31,031  INFO [main] log4j:26 - QQQ VVV
+2019-09-16 16:48:31,031  INFO [main] log4j:26 - verified
+2019-09-16 16:48:31,145  INFO [main] log4j:26 - PASS : verified
+2019-09-16 16:48:31,145  INFO [main] log4j:29 - true
+2019-09-16 16:48:34,686  INFO [main] log4j:26 - data merge button is clicked
+2019-09-16 16:50:50,880  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 16:50:54,817  INFO [main] log4j:26 - Url loaded
+2019-09-16 16:51:01,215  INFO [main] log4j:26 - logged into the application
+2019-09-16 16:51:05,138  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 16:51:05,330  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 16:51:05,814  INFO [main] log4j:26 - Last name entered
+2019-09-16 16:51:06,174  INFO [main] log4j:26 - Gender clicked
+2019-09-16 16:51:07,363  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 16:51:09,237  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 16:51:09,622  INFO [main] log4j:26 - Phone number entered
+2019-09-16 16:51:10,302  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 16:51:10,548  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 16:51:10,550  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 16:51:10,647  INFO [main] log4j:26 - Male
+2019-09-16 16:51:10,648  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 16:51:10,754  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 16:51:10,756  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 16:51:22,563  INFO [main] log4j:26 - AAA BBB
+2019-09-16 16:51:22,564  INFO [main] log4j:26 - verified
+2019-09-16 16:51:22,684  INFO [main] log4j:26 - PASS : verified
+2019-09-16 16:51:22,684  INFO [main] log4j:29 - true
+2019-09-16 16:51:24,816  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 16:51:24,980  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 16:51:25,424  INFO [main] log4j:26 - Last name entered
+2019-09-16 16:51:25,730  INFO [main] log4j:26 - Gender clicked
+2019-09-16 16:51:26,741  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 16:51:28,416  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 16:51:28,713  INFO [main] log4j:26 - Phone number entered
+2019-09-16 16:51:29,265  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 16:51:29,482  INFO [main] log4j:26 - QQQ, VVV
+2019-09-16 16:51:29,483  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 16:51:29,579  INFO [main] log4j:26 - Male
+2019-09-16 16:51:29,580  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 16:51:29,675  INFO [main] log4j:26 - 21, October, 2001
+2019-09-16 16:51:29,676  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 16:51:35,989  INFO [main] log4j:26 - QQQ VVV
+2019-09-16 16:51:35,989  INFO [main] log4j:26 - verified
+2019-09-16 16:51:36,095  INFO [main] log4j:26 - PASS : verified
+2019-09-16 16:51:36,095  INFO [main] log4j:29 - true
+2019-09-16 16:51:39,681  INFO [main] log4j:26 - data merge button is clicked
+2019-09-16 16:51:41,101  INFO [main] log4j:26 - data merge is done
+2019-09-16 17:14:01,904  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 17:14:06,203  INFO [main] log4j:26 - Url loaded
+2019-09-16 17:14:12,918  INFO [main] log4j:26 - logged into the application
+2019-09-16 17:14:16,889  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 17:14:17,111  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 17:14:17,629  INFO [main] log4j:26 - Last name entered
+2019-09-16 17:14:17,993  INFO [main] log4j:26 - Gender clicked
+2019-09-16 17:14:19,208  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 17:14:21,059  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 17:14:21,415  INFO [main] log4j:26 - Phone number entered
+2019-09-16 17:14:22,073  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 17:14:22,322  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 17:14:22,324  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 17:14:22,433  INFO [main] log4j:26 - Male
+2019-09-16 17:14:22,433  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 17:14:22,548  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 17:14:22,550  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 17:14:34,242  INFO [main] log4j:26 - AAA BBB
+2019-09-16 17:14:34,243  INFO [main] log4j:26 - verified
+2019-09-16 17:14:34,361  INFO [main] log4j:26 - PASS : verified
+2019-09-16 17:14:34,362  INFO [main] log4j:29 - true
+2019-09-16 17:14:37,252  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 17:14:37,412  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 17:14:37,848  INFO [main] log4j:26 - Last name entered
+2019-09-16 17:14:38,157  INFO [main] log4j:26 - Gender clicked
+2019-09-16 17:14:39,159  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 17:14:40,781  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 17:14:41,089  INFO [main] log4j:26 - Phone number entered
+2019-09-16 17:14:41,644  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 17:14:41,837  INFO [main] log4j:26 - QQQ, VVV
+2019-09-16 17:14:41,837  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 17:14:41,914  INFO [main] log4j:26 - Male
+2019-09-16 17:14:41,914  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 17:14:41,998  INFO [main] log4j:26 - 21, October, 2001
+2019-09-16 17:14:41,999  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 17:14:48,520  INFO [main] log4j:26 - QQQ VVV
+2019-09-16 17:14:48,520  INFO [main] log4j:26 - verified
+2019-09-16 17:14:48,627  INFO [main] log4j:26 - PASS : verified
+2019-09-16 17:14:48,627  INFO [main] log4j:29 - true
+2019-09-16 17:14:52,303  INFO [main] log4j:26 - data merge button is clicked
+2019-09-16 17:16:27,844  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 17:16:31,960  INFO [main] log4j:26 - Url loaded
+2019-09-16 17:16:38,637  INFO [main] log4j:26 - logged into the application
+2019-09-16 17:16:43,941  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 17:16:44,147  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 17:16:44,650  INFO [main] log4j:26 - Last name entered
+2019-09-16 17:16:45,013  INFO [main] log4j:26 - Gender clicked
+2019-09-16 17:16:46,440  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 17:16:48,482  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 17:16:48,881  INFO [main] log4j:26 - Phone number entered
+2019-09-16 17:16:49,581  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 17:16:49,879  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 17:16:49,882  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 17:16:49,971  INFO [main] log4j:26 - Male
+2019-09-16 17:16:49,972  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 17:16:50,077  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 17:16:50,079  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 17:17:01,816  INFO [main] log4j:26 - AAA BBB
+2019-09-16 17:17:01,816  INFO [main] log4j:26 - verified
+2019-09-16 17:17:01,935  INFO [main] log4j:26 - PASS : verified
+2019-09-16 17:17:01,935  INFO [main] log4j:29 - true
+2019-09-16 17:17:03,941  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 17:17:04,093  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 17:17:04,485  INFO [main] log4j:26 - Last name entered
+2019-09-16 17:17:04,787  INFO [main] log4j:26 - Gender clicked
+2019-09-16 17:17:05,772  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 17:17:07,356  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 17:17:07,647  INFO [main] log4j:26 - Phone number entered
+2019-09-16 17:17:08,186  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 17:17:08,420  INFO [main] log4j:26 - QQQ, VVV
+2019-09-16 17:17:08,420  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 17:17:08,525  INFO [main] log4j:26 - Male
+2019-09-16 17:17:08,525  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 17:17:08,621  INFO [main] log4j:26 - 21, October, 2001
+2019-09-16 17:17:08,621  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 17:17:14,477  INFO [main] log4j:26 - QQQ VVV
+2019-09-16 17:17:14,478  INFO [main] log4j:26 - verified
+2019-09-16 17:17:14,604  INFO [main] log4j:26 - PASS : verified
+2019-09-16 17:17:14,604  INFO [main] log4j:29 - true
+2019-09-16 17:17:18,234  INFO [main] log4j:26 - data merge button is clicked
+2019-09-16 17:18:38,205  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 17:18:42,104  INFO [main] log4j:26 - Url loaded
+2019-09-16 17:18:48,735  INFO [main] log4j:26 - logged into the application
+2019-09-16 17:18:52,406  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 17:18:52,599  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 17:18:53,041  INFO [main] log4j:26 - Last name entered
+2019-09-16 17:18:53,371  INFO [main] log4j:26 - Gender clicked
+2019-09-16 17:18:54,521  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 17:18:56,431  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 17:18:56,845  INFO [main] log4j:26 - Phone number entered
+2019-09-16 17:18:57,527  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 17:18:57,768  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 17:18:57,771  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 17:18:57,875  INFO [main] log4j:26 - Male
+2019-09-16 17:18:57,876  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 17:18:58,011  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 17:18:58,013  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 17:19:09,185  INFO [main] log4j:26 - AAA BBB
+2019-09-16 17:19:09,186  INFO [main] log4j:26 - verified
+2019-09-16 17:19:09,307  INFO [main] log4j:26 - PASS : verified
+2019-09-16 17:19:09,308  INFO [main] log4j:29 - true
+2019-09-16 17:19:11,244  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 17:19:11,401  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 17:19:11,815  INFO [main] log4j:26 - Last name entered
+2019-09-16 17:19:12,107  INFO [main] log4j:26 - Gender clicked
+2019-09-16 17:19:13,133  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 17:19:14,741  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 17:19:15,037  INFO [main] log4j:26 - Phone number entered
+2019-09-16 17:19:15,581  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 17:19:15,785  INFO [main] log4j:26 - QQQ, VVV
+2019-09-16 17:19:15,785  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 17:19:15,867  INFO [main] log4j:26 - Male
+2019-09-16 17:19:15,867  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 17:19:15,946  INFO [main] log4j:26 - 21, October, 2001
+2019-09-16 17:19:15,946  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 17:19:22,479  INFO [main] log4j:26 - QQQ VVV
+2019-09-16 17:19:22,479  INFO [main] log4j:26 - verified
+2019-09-16 17:19:22,589  INFO [main] log4j:26 - PASS : verified
+2019-09-16 17:19:22,590  INFO [main] log4j:29 - true
+2019-09-16 17:19:26,229  INFO [main] log4j:26 - data merge button is clicked
+2019-09-16 17:19:27,706  INFO [main] log4j:26 - data merge is done
+2019-09-16 17:21:51,507  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 17:21:55,591  INFO [main] log4j:26 - Url loaded
+2019-09-16 17:22:01,974  INFO [main] log4j:26 - logged into the application
+2019-09-16 17:22:06,343  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 17:22:06,563  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 17:22:07,064  INFO [main] log4j:26 - Last name entered
+2019-09-16 17:22:07,393  INFO [main] log4j:26 - Gender clicked
+2019-09-16 17:22:08,578  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 17:22:10,410  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 17:22:10,802  INFO [main] log4j:26 - Phone number entered
+2019-09-16 17:22:11,447  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 17:22:11,705  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 17:22:11,708  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 17:22:11,817  INFO [main] log4j:26 - Male
+2019-09-16 17:22:11,817  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 17:22:11,922  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 17:22:11,924  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 17:22:22,992  INFO [main] log4j:26 - AAA BBB
+2019-09-16 17:22:22,992  INFO [main] log4j:26 - verified
+2019-09-16 17:22:23,134  INFO [main] log4j:26 - PASS : verified
+2019-09-16 17:22:23,135  INFO [main] log4j:29 - true
+2019-09-16 17:22:25,144  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 17:22:25,295  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 17:22:25,688  INFO [main] log4j:26 - Last name entered
+2019-09-16 17:22:25,980  INFO [main] log4j:26 - Gender clicked
+2019-09-16 17:22:26,965  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 17:22:28,513  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 17:22:28,818  INFO [main] log4j:26 - Phone number entered
+2019-09-16 17:22:29,352  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 17:22:29,555  INFO [main] log4j:26 - QQQ, VVV
+2019-09-16 17:22:29,556  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 17:22:29,638  INFO [main] log4j:26 - Male
+2019-09-16 17:22:29,638  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 17:22:29,726  INFO [main] log4j:26 - 21, October, 2001
+2019-09-16 17:22:29,726  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 17:22:36,034  INFO [main] log4j:26 - QQQ VVV
+2019-09-16 17:22:36,035  INFO [main] log4j:26 - verified
+2019-09-16 17:22:36,155  INFO [main] log4j:26 - PASS : verified
+2019-09-16 17:22:36,155  INFO [main] log4j:29 - true
+2019-09-16 17:22:39,728  INFO [main] log4j:26 - data merge button is clicked
+2019-09-16 17:22:41,242  INFO [main] log4j:26 - data merge is done
+2019-09-16 17:25:19,867  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 17:25:23,861  INFO [main] log4j:26 - Url loaded
+2019-09-16 17:25:30,328  INFO [main] log4j:26 - logged into the application
+2019-09-16 17:25:35,663  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 17:25:35,873  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 17:25:36,401  INFO [main] log4j:26 - Last name entered
+2019-09-16 17:25:36,790  INFO [main] log4j:26 - Gender clicked
+2019-09-16 17:25:38,019  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 17:25:39,880  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 17:25:40,239  INFO [main] log4j:26 - Phone number entered
+2019-09-16 17:25:40,900  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 17:25:41,129  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 17:25:41,132  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 17:25:41,224  INFO [main] log4j:26 - Male
+2019-09-16 17:25:41,225  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 17:25:41,332  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 17:25:41,333  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 17:25:54,735  INFO [main] log4j:26 - AAA BBB
+2019-09-16 17:25:54,736  INFO [main] log4j:26 - verified
+2019-09-16 17:25:54,868  INFO [main] log4j:26 - PASS : verified
+2019-09-16 17:25:54,868  INFO [main] log4j:29 - true
+2019-09-16 17:25:57,023  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 17:25:57,191  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 17:25:57,610  INFO [main] log4j:26 - Last name entered
+2019-09-16 17:25:57,917  INFO [main] log4j:26 - Gender clicked
+2019-09-16 17:25:58,888  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 17:26:00,529  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 17:26:01,017  INFO [main] log4j:26 - Phone number entered
+2019-09-16 17:26:01,757  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 17:26:01,986  INFO [main] log4j:26 - QQQ, VVV
+2019-09-16 17:26:01,987  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 17:26:02,084  INFO [main] log4j:26 - Male
+2019-09-16 17:26:02,085  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 17:26:02,208  INFO [main] log4j:26 - 21, October, 2001
+2019-09-16 17:26:02,209  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 17:26:09,026  INFO [main] log4j:26 - QQQ VVV
+2019-09-16 17:26:09,026  INFO [main] log4j:26 - verified
+2019-09-16 17:26:09,134  INFO [main] log4j:26 - PASS : verified
+2019-09-16 17:26:09,134  INFO [main] log4j:29 - true
+2019-09-16 17:26:12,828  INFO [main] log4j:26 - data merge button is clicked
+2019-09-16 17:26:14,450  INFO [main] log4j:26 - data merge is done
+2019-09-16 17:28:53,735  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 17:28:58,390  INFO [main] log4j:26 - Url loaded
+2019-09-16 17:29:04,987  INFO [main] log4j:26 - logged into the application
+2019-09-16 17:29:09,273  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 17:29:09,470  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 17:29:09,934  INFO [main] log4j:26 - Last name entered
+2019-09-16 17:29:10,298  INFO [main] log4j:26 - Gender clicked
+2019-09-16 17:29:11,465  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 17:29:13,348  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 17:29:13,736  INFO [main] log4j:26 - Phone number entered
+2019-09-16 17:29:14,389  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 17:29:14,653  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 17:29:14,656  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 17:29:14,763  INFO [main] log4j:26 - Male
+2019-09-16 17:29:14,764  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 17:29:14,883  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 17:29:14,886  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 17:29:27,217  INFO [main] log4j:26 - AAA BBB
+2019-09-16 17:29:27,218  INFO [main] log4j:26 - verified
+2019-09-16 17:29:27,369  INFO [main] log4j:26 - PASS : verified
+2019-09-16 17:29:27,370  INFO [main] log4j:29 - true
+2019-09-16 17:29:29,815  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 17:29:29,978  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 17:29:30,383  INFO [main] log4j:26 - Last name entered
+2019-09-16 17:29:30,680  INFO [main] log4j:26 - Gender clicked
+2019-09-16 17:29:31,611  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 17:29:33,245  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 17:29:33,543  INFO [main] log4j:26 - Phone number entered
+2019-09-16 17:29:34,094  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 17:29:34,299  INFO [main] log4j:26 - QQQ, VVV
+2019-09-16 17:29:34,299  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 17:29:34,382  INFO [main] log4j:26 - Male
+2019-09-16 17:29:34,382  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 17:29:34,478  INFO [main] log4j:26 - 21, October, 2001
+2019-09-16 17:29:34,478  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 17:29:42,437  INFO [main] log4j:26 - QQQ VVV
+2019-09-16 17:29:42,437  INFO [main] log4j:26 - verified
+2019-09-16 17:29:42,543  INFO [main] log4j:26 - PASS : verified
+2019-09-16 17:29:42,543  INFO [main] log4j:29 - true
+2019-09-16 17:29:46,376  INFO [main] log4j:26 - data merge button is clicked
+2019-09-16 17:29:49,120  INFO [main] log4j:26 - data merge is done
+2019-09-16 18:04:08,985  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 18:04:13,422  INFO [main] log4j:26 - Url loaded
+2019-09-16 18:04:20,755  INFO [main] log4j:26 - logged into the application
+2019-09-16 18:04:26,193  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 18:04:26,393  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 18:04:26,894  INFO [main] log4j:26 - Last name entered
+2019-09-16 18:04:27,246  INFO [main] log4j:26 - Gender clicked
+2019-09-16 18:04:28,460  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 18:04:30,397  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 18:04:30,764  INFO [main] log4j:26 - Phone number entered
+2019-09-16 18:04:31,402  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 18:04:31,656  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 18:04:31,659  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 18:04:31,756  INFO [main] log4j:26 - Male
+2019-09-16 18:04:31,756  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 18:04:31,865  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 18:04:31,866  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 18:04:43,967  INFO [main] log4j:26 - AAA BBB
+2019-09-16 18:04:43,967  INFO [main] log4j:26 - verified
+2019-09-16 18:04:44,097  INFO [main] log4j:26 - PASS : verified
+2019-09-16 18:04:44,098  INFO [main] log4j:29 - true
+2019-09-16 18:04:46,339  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 18:04:46,490  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 18:04:46,892  INFO [main] log4j:26 - Last name entered
+2019-09-16 18:04:47,190  INFO [main] log4j:26 - Gender clicked
+2019-09-16 18:04:48,164  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 18:04:49,790  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 18:04:50,229  INFO [main] log4j:26 - Phone number entered
+2019-09-16 18:04:51,020  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 18:04:51,238  INFO [main] log4j:26 - QQQ, VVV
+2019-09-16 18:04:51,239  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 18:04:51,347  INFO [main] log4j:26 - Male
+2019-09-16 18:04:51,348  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 18:04:51,439  INFO [main] log4j:26 - 21, October, 2001
+2019-09-16 18:04:51,440  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 18:04:58,501  INFO [main] log4j:26 - QQQ VVV
+2019-09-16 18:04:58,501  INFO [main] log4j:26 - verified
+2019-09-16 18:04:58,616  INFO [main] log4j:26 - PASS : verified
+2019-09-16 18:04:58,617  INFO [main] log4j:29 - true
+2019-09-16 18:05:02,418  INFO [main] log4j:26 - data merge button is clicked
+2019-09-16 18:05:05,200  INFO [main] log4j:26 - data merge is done
+2019-09-16 18:09:10,863  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 18:09:15,045  INFO [main] log4j:26 - Url loaded
+2019-09-16 18:09:21,670  INFO [main] log4j:26 - logged into the application
+2019-09-16 18:09:25,595  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 18:09:25,799  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 18:09:26,382  INFO [main] log4j:26 - Last name entered
+2019-09-16 18:09:26,773  INFO [main] log4j:26 - Gender clicked
+2019-09-16 18:09:28,358  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 18:09:31,478  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 18:09:31,972  INFO [main] log4j:26 - Phone number entered
+2019-09-16 18:09:32,850  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 18:09:33,144  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 18:09:33,146  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 18:09:33,249  INFO [main] log4j:26 - Male
+2019-09-16 18:09:33,249  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 18:09:33,368  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 18:09:33,370  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 18:09:45,500  INFO [main] log4j:26 - AAA BBB
+2019-09-16 18:09:45,500  INFO [main] log4j:26 - verified
+2019-09-16 18:09:45,670  INFO [main] log4j:26 - PASS : verified
+2019-09-16 18:09:45,671  INFO [main] log4j:29 - true
+2019-09-16 18:09:47,903  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 18:09:48,058  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 18:09:48,478  INFO [main] log4j:26 - Last name entered
+2019-09-16 18:09:48,776  INFO [main] log4j:26 - Gender clicked
+2019-09-16 18:09:49,764  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 18:09:51,784  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 18:09:52,260  INFO [main] log4j:26 - Phone number entered
+2019-09-16 18:09:52,899  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 18:09:53,157  INFO [main] log4j:26 - QQQ, VVV
+2019-09-16 18:09:53,157  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 18:09:53,294  INFO [main] log4j:26 - Male
+2019-09-16 18:09:53,295  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 18:09:53,404  INFO [main] log4j:26 - 21, October, 2001
+2019-09-16 18:09:53,404  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 18:09:59,675  INFO [main] log4j:26 - QQQ VVV
+2019-09-16 18:09:59,676  INFO [main] log4j:26 - verified
+2019-09-16 18:09:59,785  INFO [main] log4j:26 - PASS : verified
+2019-09-16 18:09:59,786  INFO [main] log4j:29 - true
+2019-09-16 18:10:03,693  INFO [main] log4j:26 - data merge button is clicked
+2019-09-16 18:10:05,825  INFO [main] log4j:26 - data merge is done
+2019-09-16 18:13:43,755  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 18:13:47,891  INFO [main] log4j:26 - Url loaded
+2019-09-16 18:13:54,698  INFO [main] log4j:26 - logged into the application
+2019-09-16 18:13:58,801  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 18:13:59,009  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 18:13:59,512  INFO [main] log4j:26 - Last name entered
+2019-09-16 18:13:59,858  INFO [main] log4j:26 - Gender clicked
+2019-09-16 18:14:01,042  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 18:14:03,018  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 18:14:03,408  INFO [main] log4j:26 - Phone number entered
+2019-09-16 18:14:04,116  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 18:14:04,362  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 18:14:04,366  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 18:14:04,462  INFO [main] log4j:26 - Male
+2019-09-16 18:14:04,462  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 18:14:04,567  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 18:14:04,569  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 18:14:19,648  INFO [main] log4j:26 - AAA BBB
+2019-09-16 18:14:19,648  INFO [main] log4j:26 - verified
+2019-09-16 18:14:19,785  INFO [main] log4j:26 - PASS : verified
+2019-09-16 18:14:19,786  INFO [main] log4j:29 - true
+2019-09-16 18:14:22,145  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 18:14:22,322  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 18:14:22,769  INFO [main] log4j:26 - Last name entered
+2019-09-16 18:14:23,067  INFO [main] log4j:26 - Gender clicked
+2019-09-16 18:14:24,155  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 18:14:26,585  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 18:14:26,933  INFO [main] log4j:26 - Phone number entered
+2019-09-16 18:14:27,841  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 18:14:28,070  INFO [main] log4j:26 - QQQ, VVV
+2019-09-16 18:14:28,071  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 18:14:28,258  INFO [main] log4j:26 - Male
+2019-09-16 18:14:28,259  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 18:14:28,377  INFO [main] log4j:26 - 21, October, 2001
+2019-09-16 18:14:28,378  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 18:14:34,851  INFO [main] log4j:26 - QQQ VVV
+2019-09-16 18:14:34,852  INFO [main] log4j:26 - verified
+2019-09-16 18:14:34,956  INFO [main] log4j:26 - PASS : verified
+2019-09-16 18:14:34,957  INFO [main] log4j:29 - true
+2019-09-16 18:14:38,729  INFO [main] log4j:26 - data merge button is clicked
+2019-09-16 18:14:40,563  INFO [main] log4j:26 - data merge is done
+2019-09-16 18:19:41,183  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 18:19:45,581  INFO [main] log4j:26 - Url loaded
+2019-09-16 18:19:52,024  INFO [main] log4j:26 - logged into the application
+2019-09-16 18:19:55,770  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 18:19:55,974  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 18:19:56,478  INFO [main] log4j:26 - Last name entered
+2019-09-16 18:19:56,882  INFO [main] log4j:26 - Gender clicked
+2019-09-16 18:19:58,197  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 18:20:01,308  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 18:20:01,766  INFO [main] log4j:26 - Phone number entered
+2019-09-16 18:20:02,601  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 18:20:02,949  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 18:20:02,953  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 18:20:03,090  INFO [main] log4j:26 - Male
+2019-09-16 18:20:03,091  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 18:20:03,243  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 18:20:03,245  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 18:20:14,577  INFO [main] log4j:26 - AAA BBB
+2019-09-16 18:20:14,577  INFO [main] log4j:26 - verified
+2019-09-16 18:20:14,720  INFO [main] log4j:26 - PASS : verified
+2019-09-16 18:20:14,720  INFO [main] log4j:29 - true
+2019-09-16 18:20:16,942  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 18:20:17,116  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 18:20:17,575  INFO [main] log4j:26 - Last name entered
+2019-09-16 18:20:17,923  INFO [main] log4j:26 - Gender clicked
+2019-09-16 18:20:19,061  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 18:20:20,847  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 18:20:21,176  INFO [main] log4j:26 - Phone number entered
+2019-09-16 18:20:21,788  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 18:20:22,073  INFO [main] log4j:26 - QQQ, VVV
+2019-09-16 18:20:22,074  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 18:20:22,196  INFO [main] log4j:26 - Male
+2019-09-16 18:20:22,196  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 18:20:22,334  INFO [main] log4j:26 - 21, October, 2001
+2019-09-16 18:20:22,334  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 18:20:28,929  INFO [main] log4j:26 - QQQ VVV
+2019-09-16 18:20:28,930  INFO [main] log4j:26 - verified
+2019-09-16 18:20:29,037  INFO [main] log4j:26 - PASS : verified
+2019-09-16 18:20:29,038  INFO [main] log4j:29 - true
+2019-09-16 18:20:32,882  INFO [main] log4j:26 - data merge button is clicked
+2019-09-16 18:20:35,360  INFO [main] log4j:26 - data merge is done
+2019-09-16 18:23:26,328  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 18:23:30,362  INFO [main] log4j:26 - Url loaded
+2019-09-16 18:23:36,965  INFO [main] log4j:26 - logged into the application
+2019-09-16 18:23:41,346  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 18:23:41,580  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 18:23:42,078  INFO [main] log4j:26 - Last name entered
+2019-09-16 18:23:42,439  INFO [main] log4j:26 - Gender clicked
+2019-09-16 18:23:43,656  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 18:23:45,776  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 18:23:46,250  INFO [main] log4j:26 - Phone number entered
+2019-09-16 18:23:46,918  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 18:23:47,161  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 18:23:47,164  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 18:23:47,266  INFO [main] log4j:26 - Male
+2019-09-16 18:23:47,267  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 18:23:47,384  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 18:23:47,385  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 18:24:00,224  INFO [main] log4j:26 - AAA BBB
+2019-09-16 18:24:00,225  INFO [main] log4j:26 - verified
+2019-09-16 18:24:00,365  INFO [main] log4j:26 - PASS : verified
+2019-09-16 18:24:00,366  INFO [main] log4j:29 - true
+2019-09-16 18:24:02,677  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 18:24:02,871  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 18:24:03,375  INFO [main] log4j:26 - Last name entered
+2019-09-16 18:24:03,729  INFO [main] log4j:26 - Gender clicked
+2019-09-16 18:24:05,002  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 18:24:06,701  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 18:24:07,003  INFO [main] log4j:26 - Phone number entered
+2019-09-16 18:24:07,842  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 18:24:08,137  INFO [main] log4j:26 - QQQ, VVV
+2019-09-16 18:24:08,138  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 18:24:08,260  INFO [main] log4j:26 - Male
+2019-09-16 18:24:08,261  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 18:24:08,372  INFO [main] log4j:26 - 21, October, 2001
+2019-09-16 18:24:08,372  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 18:24:14,689  INFO [main] log4j:26 - QQQ VVV
+2019-09-16 18:24:14,689  INFO [main] log4j:26 - verified
+2019-09-16 18:24:14,799  INFO [main] log4j:26 - PASS : verified
+2019-09-16 18:24:14,799  INFO [main] log4j:29 - true
+2019-09-16 18:24:18,449  INFO [main] log4j:26 - data merge button is clicked
+2019-09-16 18:25:50,402  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 18:25:54,322  INFO [main] log4j:26 - Url loaded
+2019-09-16 18:26:00,800  INFO [main] log4j:26 - logged into the application
+2019-09-16 18:26:05,678  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 18:26:05,936  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 18:26:06,574  INFO [main] log4j:26 - Last name entered
+2019-09-16 18:26:07,009  INFO [main] log4j:26 - Gender clicked
+2019-09-16 18:26:08,302  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 18:26:10,302  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 18:26:10,701  INFO [main] log4j:26 - Phone number entered
+2019-09-16 18:26:11,396  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 18:26:11,666  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 18:26:11,669  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 18:26:11,778  INFO [main] log4j:26 - Male
+2019-09-16 18:26:11,778  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 18:26:11,906  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 18:26:11,909  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 18:26:23,843  INFO [main] log4j:26 - AAA BBB
+2019-09-16 18:26:23,843  INFO [main] log4j:26 - verified
+2019-09-16 18:26:23,982  INFO [main] log4j:26 - PASS : verified
+2019-09-16 18:26:23,982  INFO [main] log4j:29 - true
+2019-09-16 18:26:26,129  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 18:26:26,298  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 18:26:26,762  INFO [main] log4j:26 - Last name entered
+2019-09-16 18:26:27,133  INFO [main] log4j:26 - Gender clicked
+2019-09-16 18:26:28,429  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 18:26:30,186  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 18:26:30,488  INFO [main] log4j:26 - Phone number entered
+2019-09-16 18:26:31,120  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 18:26:31,377  INFO [main] log4j:26 - QQQ, VVV
+2019-09-16 18:26:31,378  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 18:26:31,481  INFO [main] log4j:26 - Male
+2019-09-16 18:26:31,482  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 18:26:31,590  INFO [main] log4j:26 - 21, October, 2001
+2019-09-16 18:26:31,591  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 18:26:38,575  INFO [main] log4j:26 - QQQ VVV
+2019-09-16 18:26:38,576  INFO [main] log4j:26 - verified
+2019-09-16 18:26:38,732  INFO [main] log4j:26 - PASS : verified
+2019-09-16 18:26:38,732  INFO [main] log4j:29 - true
+2019-09-16 18:26:42,538  INFO [main] log4j:26 - data merge button is clicked
+2019-09-16 18:26:43,778  INFO [main] log4j:26 - data merge is done
+2019-09-16 18:28:24,818  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 18:28:28,880  INFO [main] log4j:26 - Url loaded
+2019-09-16 18:28:35,389  INFO [main] log4j:26 - logged into the application
+2019-09-16 18:28:40,128  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 18:28:40,344  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 18:28:40,870  INFO [main] log4j:26 - Last name entered
+2019-09-16 18:28:41,211  INFO [main] log4j:26 - Gender clicked
+2019-09-16 18:28:42,388  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 18:28:44,360  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 18:28:44,718  INFO [main] log4j:26 - Phone number entered
+2019-09-16 18:28:45,389  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 18:28:45,691  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 18:28:45,695  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 18:28:45,833  INFO [main] log4j:26 - Male
+2019-09-16 18:28:45,833  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 18:28:45,961  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 18:28:45,964  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 18:28:58,239  INFO [main] log4j:26 - AAA BBB
+2019-09-16 18:28:58,239  INFO [main] log4j:26 - verified
+2019-09-16 18:28:58,412  INFO [main] log4j:26 - PASS : verified
+2019-09-16 18:28:58,413  INFO [main] log4j:29 - true
+2019-09-16 18:29:00,885  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 18:29:01,065  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 18:29:01,537  INFO [main] log4j:26 - Last name entered
+2019-09-16 18:29:01,903  INFO [main] log4j:26 - Gender clicked
+2019-09-16 18:29:03,091  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 18:29:04,679  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 18:29:05,018  INFO [main] log4j:26 - Phone number entered
+2019-09-16 18:29:05,754  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 18:29:06,066  INFO [main] log4j:26 - QQQ, VVV
+2019-09-16 18:29:06,066  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 18:29:06,193  INFO [main] log4j:26 - Male
+2019-09-16 18:29:06,194  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 18:29:06,352  INFO [main] log4j:26 - 21, October, 2001
+2019-09-16 18:29:06,352  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 18:29:12,759  INFO [main] log4j:26 - QQQ VVV
+2019-09-16 18:29:12,760  INFO [main] log4j:26 - verified
+2019-09-16 18:29:12,868  INFO [main] log4j:26 - PASS : verified
+2019-09-16 18:29:12,869  INFO [main] log4j:29 - true
+2019-09-16 18:29:16,607  INFO [main] log4j:26 - data merge button is clicked
+2019-09-16 18:29:19,729  INFO [main] log4j:26 - data merge is done
+2019-09-16 18:29:45,041  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 18:29:49,239  INFO [main] log4j:26 - Url loaded
+2019-09-16 18:29:56,106  INFO [main] log4j:26 - logged into the application
+2019-09-16 18:30:00,181  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 18:30:00,383  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 18:30:00,882  INFO [main] log4j:26 - Last name entered
+2019-09-16 18:30:01,213  INFO [main] log4j:26 - Gender clicked
+2019-09-16 18:30:02,396  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 18:30:04,373  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 18:30:04,730  INFO [main] log4j:26 - Phone number entered
+2019-09-16 18:30:05,381  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 18:30:05,611  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 18:30:05,614  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 18:30:05,733  INFO [main] log4j:26 - Male
+2019-09-16 18:30:05,733  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 18:30:05,829  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 18:30:05,831  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 18:31:12,775  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 18:31:14,213  INFO [main] log4j:26 - Url loaded
+2019-09-16 18:32:00,059  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 18:32:04,176  INFO [main] log4j:26 - Url loaded
+2019-09-16 18:34:25,040  INFO [main] utilityfiles:27 - chrome has started
+2019-09-16 18:34:29,046  INFO [main] log4j:26 - Url loaded
+2019-09-16 18:34:36,568  INFO [main] log4j:26 - logged into the application
+2019-09-16 18:34:42,663  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 18:34:42,876  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 18:34:43,350  INFO [main] log4j:26 - Last name entered
+2019-09-16 18:34:43,756  INFO [main] log4j:26 - Gender clicked
+2019-09-16 18:34:45,052  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 18:34:47,258  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 18:34:47,652  INFO [main] log4j:26 - Phone number entered
+2019-09-16 18:34:48,561  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 18:34:48,887  INFO [main] log4j:26 - AAA, BBB
+2019-09-16 18:34:48,890  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 18:34:49,014  INFO [main] log4j:26 - Male
+2019-09-16 18:34:49,015  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 18:34:49,149  INFO [main] log4j:26 - 12, January, 1993
+2019-09-16 18:34:49,151  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 18:35:05,148  INFO [main] log4j:26 - AAA BBB
+2019-09-16 18:35:05,148  INFO [main] log4j:26 - verified
+2019-09-16 18:35:05,270  INFO [main] log4j:26 - PASS : verified
+2019-09-16 18:35:05,271  INFO [main] log4j:29 - true
+2019-09-16 18:35:09,153  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-16 18:35:09,322  INFO [main] log4j:26 - Firstname Entered
+2019-09-16 18:35:09,721  INFO [main] log4j:26 - Last name entered
+2019-09-16 18:35:10,027  INFO [main] log4j:26 - Gender clicked
+2019-09-16 18:35:11,118  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-16 18:35:12,763  INFO [main] log4j:26 - Entered address of the patient
+2019-09-16 18:35:13,067  INFO [main] log4j:26 - Phone number entered
+2019-09-16 18:35:13,640  INFO [main] log4j:26 - Patient relations details were given
+2019-09-16 18:35:13,840  INFO [main] log4j:26 - QQQ, VVV
+2019-09-16 18:35:13,840  INFO [main] log4j:26 - verified Name of the patient
+2019-09-16 18:35:13,921  INFO [main] log4j:26 - Male
+2019-09-16 18:35:13,921  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-16 18:35:14,023  INFO [main] log4j:26 - 21, October, 2001
+2019-09-16 18:35:14,023  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-16 18:35:25,369  INFO [main] log4j:26 - QQQ VVV
+2019-09-16 18:35:25,369  INFO [main] log4j:26 - verified
+2019-09-16 18:35:25,540  INFO [main] log4j:26 - PASS : verified
+2019-09-16 18:35:25,541  INFO [main] log4j:29 - true
+2019-09-16 18:35:30,819  INFO [main] log4j:26 - data merge button is clicked
+2019-09-16 18:35:33,915  INFO [main] log4j:26 - data merge is done

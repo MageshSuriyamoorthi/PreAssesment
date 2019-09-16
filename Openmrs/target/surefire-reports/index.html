@@ -128,11 +128,10 @@
                   <a name="setup">
                   </a> <!-- setup -->
                   <span class="method-name">setup</span>
-                  <div class="stack-trace">java.lang.StringIndexOutOfBoundsException: String index out of range: 20
-	at java.lang.String.substring(Unknown Source)
-	at com.openmrs.utils.UtilityFiles.expectedresult(UtilityFiles.java:127)
-	at com.openmrs.pages.DataValandSubmit.validationandsubmit(DataValandSubmit.java:20)
-	at com.openmrs.testscript.Login.setup(Login.java:36)
+                  <div class="stack-trace">java.lang.NullPointerException
+	at com.openmrs.utils.UtilityFiles.enterText(UtilityFiles.java:50)
+	at com.openmrs.pages.OPRegister.OPEntry(OPRegister.java:18)
+	at com.openmrs.testscript.Login.setup(Login.java:33)
 	at java.util.ArrayList.forEach(Unknown Source)
 ... Removed 31 stack frames
 </div> <!-- stack-trace -->
@@ -230,12 +229,12 @@ data.addRows(1);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'setup')
 data.setCell(0, 2, 'com.openmrs.testscript.Login')
-data.setCell(0, 3, 20446);
+data.setCell(0, 3, 15668);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 20 seconds</span>
+              <span class="suite-total-time">Total running time: 15 seconds</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -309,11 +308,11 @@ return data;
                 <img src="failed.png">
                 </img>
                 <span class="method-name">setup</span>
-                <span class="method-start">7619 ms</span>
+                <span class="method-start">7974 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-test after">
                 <span class="method-name">closeSetup</span>
-                <span class="method-start">28077 ms</span>
+                <span class="method-start">23676 ms</span>
               </div> <!-- configuration-test after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

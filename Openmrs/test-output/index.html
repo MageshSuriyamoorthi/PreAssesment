@@ -49,7 +49,7 @@
               <ul>
                 <li>
                   <a href="#" class="navigator-link " panel-name="test-xml-Default_suite">
-                    <span>C:\Users\magesh.suriyamoorthi\AppData\Local\Temp\testng-eclipse--816334483\testng-customsuite.xml</span>
+                    <span>C:\Users\magesh.suriyamoorthi\AppData\Local\Temp\testng-eclipse-1628108599\testng-customsuite.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -128,15 +128,15 @@
                   <a name="setup">
                   </a> <!-- setup -->
                   <span class="method-name">setup</span>
-                  <div class="stack-trace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//a[@id=&apos;coreapps-mergePatientsHomepageLink-app&apos;]&quot;}
+                  <div class="stack-trace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//div[@id=&apos;second-patient&apos;]//div[@class=&apos;row identifiers&apos;][1]&quot;}
   (Session info: chrome=76.0.3809.132)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
-System info: host: &apos;ATMECSINLT-084&apos;, ip: &apos;55.55.54.52&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_221&apos;
+System info: host: &apos;ATMECSINLT-084&apos;, ip: &apos;55.55.52.136&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_221&apos;
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\MAGESH~1.SUR\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:64501}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 19029d69f9594f8e92e24428cd695d47
-*** Element info: {Using=xpath, value=//a[@id=&apos;coreapps-mergePatientsHomepageLink-app&apos;]}
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\MAGESH~1.SUR\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:56498}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 2ce8da6fb6fd518a49711716d5cf3924
+*** Element info: {Using=xpath, value=//div[@id=&apos;second-patient&apos;]//div[@class=&apos;row identifiers&apos;][1]}
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
@@ -151,9 +151,9 @@ Session ID: 19029d69f9594f8e92e24428cd695d47
 	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
 	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at com.openmrs.utils.UtilityFiles.ClickElement(UtilityFiles.java:40)
-	at com.openmrs.pages.DataManagement.datamanagement(DataManagement.java:13)
-	at com.openmrs.testscript.Login.setup(Login.java:45)
+	at com.openmrs.utils.UtilityFiles.ClickElement(UtilityFiles.java:42)
+	at com.openmrs.pages.DataManagement.mergerecords(DataManagement.java:52)
+	at com.openmrs.testscript.Login.setup(Login.java:47)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -188,7 +188,7 @@ Session ID: 19029d69f9594f8e92e24428cd695d47
         </div> <!-- panel Default_suite -->
         <div panel-name="test-xml-Default_suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">C:\Users\magesh.suriyamoorthi\AppData\Local\Temp\testng-eclipse--816334483\testng-customsuite.xml</span>
+            <span class="header-content">C:\Users\magesh.suriyamoorthi\AppData\Local\Temp\testng-eclipse-1628108599\testng-customsuite.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
@@ -241,7 +241,7 @@ data.addRows(1);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'setup')
 data.setCell(0, 2, 'com.openmrs.testscript.Login')
-data.setCell(0, 3, 60191);
+data.setCell(0, 3, 83926);
 window.suiteTableData['Default_suite']= { tableData: data, tableDiv: 'times-div-Default_suite'}
 return data;
 }
@@ -281,11 +281,11 @@ return data;
                 <img src="failed.png">
                 </img>
                 <span class="method-name">setup</span>
-                <span class="method-start">7747 ms</span>
+                <span class="method-start">7967 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-test after">
                 <span class="method-name">closeSetup</span>
-                <span class="method-start">67946 ms</span>
+                <span class="method-start">91903 ms</span>
               </div> <!-- configuration-test after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
