@@ -15,7 +15,6 @@ public class ReadpropertiesFile {
 	private static ReadpropertiesFile propReader;
 	private Properties prop = new Properties();
 
-	// loads all files
 	public ReadpropertiesFile() {
 		List<String> propsFiles = Arrays.asList(Classpath.loc_file, Classpath.url_file, Classpath.register_file,
 				Classpath.search_file, Classpath.datamanage_file);

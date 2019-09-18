@@ -18,7 +18,6 @@ public class OpenmrsTS {
 	DataValandSubmit val = new DataValandSubmit();
 	DataManagement manage = new DataManagement();
 
-
 	@BeforeTest
 	public void browsersetup() {
 
@@ -31,19 +30,13 @@ public class OpenmrsTS {
 		login.openmrsdemo();
 		login.logincredentials();
 		login.patientsCredentials();
-
 		register.OPEntry(1);
-
 		val.validationandsubmit(1);
 		val.PatientSearch(1);
-
 		login.patientsCredentials();
-
 		register.OPEntry(2);
-
 		val.validationandsubmit(2);
 		val.PatientSearch(2);
-
 		manage.datamanagement();
 		manage.datamerge();
 		manage.mergerecords();

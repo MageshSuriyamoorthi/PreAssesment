@@ -21,6 +21,12 @@ public class DataManagement {
 
 	public void datamerge() {
 		util.entertext(prop.getValue("locators.search.record"), "AAA");
+		try {
+			Thread.sleep(2000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		util.arrowdown(prop.getValue("locators.search.record"));
 		util.enter(prop.getValue("locators.search.record"));
 
@@ -63,9 +69,9 @@ public class DataManagement {
 		String[] arr = actual.split("\\s");
 		System.out.println(arr[0]);
 		if (actual.equals(arr[0])) {
-			logreports.info("id's were merged");
+			logreports.info("id's were not merged");
 		} else {
-			logreports.info("id's weren't merged");
+			logreports.info("id's were merged");
 		}
 	}
 }

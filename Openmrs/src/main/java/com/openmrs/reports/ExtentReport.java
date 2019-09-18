@@ -18,8 +18,7 @@ public class ExtentReport {
 		logger.log(Status.PASS, testname);
 		/*
 		 * logger.log(Status.FAIL, Failuremsg); logger.fail("failed script",
-		 * MediaEntityBuilder.createScreenCaptureFromPath("./Openmrs/Snapshot").build())
-		 * ;
+		 * MediaEntityBuilder.createScreenCaptureFromPath("./Openmrs/Snapshot").build());
 		 */
 		extent.flush();
 	}

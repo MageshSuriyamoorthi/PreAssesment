@@ -6,13 +6,19 @@ public class Classpath {
 
 	public static String Users_Home = System.getProperty("user.dir");
 
-	public static String log4j_file = Users_Home + File.separator + "log4j.properties";
+	public static String url_file = Users_Home + File.separator + "config.properties";
 
-	public static String Excel_file = Users_Home + File.separator + "testdata.xlsx";
+	public static String log4j_file = Users_Home + File.separator + "resource" + File.separator + "log4j"
+			+ File.separator + "log4j.properties";
 
-	public static String Excel_file1 = Users_Home + File.separator + "testdata1.xlsx";
-	
-	public static String Excel_file2 = Users_Home + File.separator + "datavalues.xlsx";
+	public static String Excel_file = Users_Home + File.separator + "resource" + File.separator + "testdata"
+			+ File.separator + "testdata.xlsx";
+
+	public static String Excel_file1 = Users_Home + File.separator + "resource" + File.separator + "testdata"
+			+ File.separator + "testdata1.xlsx";
+
+	public static String Excel_file2 = Users_Home + File.separator + "resource" + File.separator + "datavalues"
+			+ File.separator + "datavalues.xlsx";
 
 	public static String loc_file = Users_Home + File.separator + "resource" + File.separator + "locators"
 			+ File.separator + "homelocators.properties";
@@ -22,9 +28,6 @@ public class Classpath {
 
 	public static String search_file = Users_Home + File.separator + "resource" + File.separator + "locators"
 			+ File.separator + "searchrecord.properties";
-
-	public static String url_file = Users_Home + File.separator + "resource" + File.separator + "locators"
-			+ File.separator + "browser.properties";
 
 	public static String datamanage_file = Users_Home + File.separator + "resource" + File.separator + "locators"
 			+ File.separator + "datamanagement.properties";
