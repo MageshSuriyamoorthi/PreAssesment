@@ -5,8 +5,8 @@
     <classes>
       <class name="com.openmrs.testscript.OpenmrsTS">
         <methods>
+          <include name="openmrs"/>
           <include name="browsersetup"/>
-          <include name="setup"/>
           <include name="closeSetup"/>
         </methods>
       </class> <!-- com.openmrs.testscript.OpenmrsTS -->

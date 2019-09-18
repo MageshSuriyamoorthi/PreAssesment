@@ -1,7 +1,5 @@
 package com.openmrs.testscript;
 
-import java.io.IOException;
-
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
@@ -19,7 +17,7 @@ public class OpenmrsTS {
 	OPRegister register = new OPRegister();
 	DataValandSubmit val = new DataValandSubmit();
 	DataManagement manage = new DataManagement();
-	ExtentReport report = new ExtentReport();
+
 
 	@BeforeTest
 	public void browsersetup() {
@@ -27,8 +25,8 @@ public class OpenmrsTS {
 		browser.BrowserSelect();
 	}
 
-	@Test
-	public void setup() {
+	@Test(priority = 0)
+	public void openmrs() {
 
 		login.openmrsdemo();
 		login.logincredentials();
@@ -51,11 +49,12 @@ public class OpenmrsTS {
 		manage.mergerecords();
 		manage.validate();
 
-		try {
-			ExtentReport.reportLog("OpenmrsTS", "patient details");
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
+	}
+
+	@Test(priority = 1)
+	public void reports() {
+		ExtentReport.reportLog("OpenmrsTS", "patient details");
+
 	}
 
 	@AfterTest

@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>Default test</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>0/1/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>1/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Tue Sep 17 10:43:36 IST 2019</td>
+<td>Started on:</td><td>Wed Sep 18 11:35:26 IST 2019</td>
 </tr>
-<tr><td>Total time:</td><td>66 seconds (66791 ms)</td>
+<tr><td>Total time:</td><td>82 seconds (82076 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -75,16 +75,16 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='com.openmrs.testscript.OpenmrsTS.setup()'><b>setup</b><br>Test class: com.openmrs.testscript.OpenmrsTS</td>
-<td><div><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//div[@class=&apos;identifiers&apos;]//span[text()]&quot;}
+<td title='com.openmrs.testscript.OpenmrsTS.openmrs()'><b>openmrs</b><br>Test class: com.openmrs.testscript.OpenmrsTS</td>
+<td><div><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;(//div[@class=&apos;row identifiers&apos;])[3]&quot;}
   (Session info: chrome=76.0.3809.132)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
 System info: host: &apos;ATMECSINLT-084&apos;, ip: &apos;55.55.52.136&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_221&apos;
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\MAGESH~1.SUR\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:49737}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: cd6d1cb8420f760fad25bad7db34b6b3
-*** Element info: {Using=xpath, value=//div[@class=&apos;identifiers&apos;]//span[text()]}
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\MAGESH~1.SUR\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:50334}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 9f0ac1b9b09da5614d6aa45791666542
+*** Element info: {Using=xpath, value=(//div[@class=&apos;row identifiers&apos;])[3]}
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
@@ -99,9 +99,9 @@ Session ID: cd6d1cb8420f760fad25bad7db34b6b3
 	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
 	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at com.openmrs.utils.UtilityFiles.getactual(UtilityFiles.java:123)
-	at com.openmrs.pages.DataValandSubmit.PatientSearch(DataValandSubmit.java:39)
-	at com.openmrs.testscript.OpenmrsTS.setup(OpenmrsTS.java:39)
+	at com.openmrs.utils.UtilityFiles.ClickElement(UtilityFiles.java:42)
+	at com.openmrs.pages.DataManagement.mergerecords(DataManagement.java:51)
+	at com.openmrs.testscript.OpenmrsTS.openmrs(OpenmrsTS.java:49)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -127,16 +127,16 @@ Session ID: cd6d1cb8420f760fad25bad7db34b6b3
 	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-</pre></div><a href='#' onClick='toggleBox("stack-trace398644489", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace398644489'><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//div[@class=&apos;identifiers&apos;]//span[text()]&quot;}
+</pre></div><a href='#' onClick='toggleBox("stack-trace377667724", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace377667724'><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;(//div[@class=&apos;row identifiers&apos;])[3]&quot;}
   (Session info: chrome=76.0.3809.132)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
 System info: host: &apos;ATMECSINLT-084&apos;, ip: &apos;55.55.52.136&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_221&apos;
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\MAGESH~1.SUR\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:49737}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: cd6d1cb8420f760fad25bad7db34b6b3
-*** Element info: {Using=xpath, value=//div[@class=&apos;identifiers&apos;]//span[text()]}
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\MAGESH~1.SUR\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:50334}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 9f0ac1b9b09da5614d6aa45791666542
+*** Element info: {Using=xpath, value=(//div[@class=&apos;row identifiers&apos;])[3]}
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
@@ -151,9 +151,9 @@ Session ID: cd6d1cb8420f760fad25bad7db34b6b3
 	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
 	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at com.openmrs.utils.UtilityFiles.getactual(UtilityFiles.java:123)
-	at com.openmrs.pages.DataValandSubmit.PatientSearch(DataValandSubmit.java:39)
-	at com.openmrs.testscript.OpenmrsTS.setup(OpenmrsTS.java:39)
+	at com.openmrs.utils.UtilityFiles.ClickElement(UtilityFiles.java:42)
+	at com.openmrs.pages.DataManagement.mergerecords(DataManagement.java:51)
+	at com.openmrs.testscript.OpenmrsTS.openmrs(OpenmrsTS.java:49)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -180,8 +180,21 @@ Session ID: cd6d1cb8420f760fad25bad7db34b6b3
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 </pre></div></td>
-<td>58</td>
-<td>com.openmrs.testscript.OpenmrsTS@5644dc81</td></tr>
+<td>71</td>
+<td>com.openmrs.testscript.OpenmrsTS@2f4205be</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.openmrs.testscript.OpenmrsTS.reports()'><b>reports</b><br>Test class: com.openmrs.testscript.OpenmrsTS</td>
+<td></td>
+<td>2</td>
+<td>com.openmrs.testscript.OpenmrsTS@2f4205be</td></tr>
 </table><p>
 </body>
 </html>

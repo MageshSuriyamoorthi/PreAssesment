@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
   <test thread-count="5" verbose="0" name="Test(failed)">
     <classes>
-      <class name="com.openmrs.testscript.Login">
+      <class name="com.openmrs.testscript.OpenmrsTS">
         <methods>
           <include name="browsersetup"/>
           <include name="setup"/>
           <include name="closeSetup"/>
         </methods>
-      </class> <!-- com.openmrs.testscript.Login -->
+      </class> <!-- com.openmrs.testscript.OpenmrsTS -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

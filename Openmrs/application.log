@@ -1303,3 +1303,461 @@
 2019-09-17 10:44:27,626  INFO [main] log4j:26 - Verified Gender of the patient
 2019-09-17 10:44:27,722  INFO [main] log4j:26 - 12, January, 1993
 2019-09-17 10:44:27,722  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-17 11:30:58,119  INFO [main] utilityfiles:27 - chrome has started
+2019-09-17 11:31:02,314  INFO [main] log4j:26 - Url loaded
+2019-09-17 11:31:08,855  INFO [main] log4j:26 - logged into the application
+2019-09-17 11:31:12,652  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-17 11:31:12,853  INFO [main] log4j:26 - Firstname Entered
+2019-09-17 11:31:13,345  INFO [main] log4j:26 - Last name entered
+2019-09-17 11:31:13,689  INFO [main] log4j:26 - Gender clicked
+2019-09-17 11:31:14,826  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-17 11:31:16,583  INFO [main] log4j:26 - Entered address of the patient
+2019-09-17 11:31:16,950  INFO [main] log4j:26 - Phone number entered
+2019-09-17 11:31:17,714  INFO [main] log4j:26 - Patient relations details were given
+2019-09-17 11:31:18,039  INFO [main] log4j:26 - AAA, BBB
+2019-09-17 11:31:18,043  INFO [main] log4j:26 - verified Name of the patient
+2019-09-17 11:31:18,167  INFO [main] log4j:26 - Male
+2019-09-17 11:31:18,167  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-17 11:31:18,275  INFO [main] log4j:26 - 12, January, 1993
+2019-09-17 11:31:18,275  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-17 11:32:00,171  INFO [main] log4j:26 - Url loaded
+2019-09-17 11:32:02,959  INFO [main] log4j:26 - logged into the application
+2019-09-17 11:32:07,038  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-17 11:32:07,238  INFO [main] log4j:26 - Firstname Entered
+2019-09-17 11:32:07,678  INFO [main] log4j:26 - Last name entered
+2019-09-17 11:32:07,938  INFO [main] log4j:26 - Gender clicked
+2019-09-17 11:32:09,138  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-17 11:32:10,658  INFO [main] log4j:26 - Entered address of the patient
+2019-09-17 11:32:10,930  INFO [main] log4j:26 - Phone number entered
+2019-09-17 11:32:11,398  INFO [main] log4j:26 - Patient relations details were given
+2019-09-17 11:32:11,634  INFO [main] log4j:26 - AAA, BBB
+2019-09-17 11:32:11,638  INFO [main] log4j:26 - verified Name of the patient
+2019-09-17 11:32:11,722  INFO [main] log4j:26 - Male
+2019-09-17 11:32:11,722  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-17 11:32:11,801  INFO [main] log4j:26 - 12, January, 1993
+2019-09-17 11:32:11,801  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-17 11:42:56,872  INFO [main] log4j:26 - Url loaded
+2019-09-17 11:42:59,596  INFO [main] log4j:26 - logged into the application
+2019-09-17 11:43:03,594  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-17 11:43:03,771  INFO [main] log4j:26 - Firstname Entered
+2019-09-17 11:43:04,155  INFO [main] log4j:26 - Last name entered
+2019-09-17 11:43:04,407  INFO [main] log4j:26 - Gender clicked
+2019-09-17 11:43:05,470  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-17 11:43:06,978  INFO [main] log4j:26 - Entered address of the patient
+2019-09-17 11:43:07,264  INFO [main] log4j:26 - Phone number entered
+2019-09-17 11:43:07,760  INFO [main] log4j:26 - Patient relations details were given
+2019-09-17 11:43:07,992  INFO [main] log4j:26 - AAA, BBB
+2019-09-17 11:43:07,998  INFO [main] log4j:26 - verified Name of the patient
+2019-09-17 11:43:08,086  INFO [main] log4j:26 - Male
+2019-09-17 11:43:08,086  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-17 11:43:08,158  INFO [main] log4j:26 - 12, January, 1993
+2019-09-17 11:43:08,158  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-17 11:46:07,143  INFO [main] log4j:26 - Url loaded
+2019-09-17 11:46:08,166  INFO [main] log4j:26 - Url loaded
+2019-09-17 11:46:10,780  INFO [main] log4j:26 - logged into the application
+2019-09-17 11:46:11,205  INFO [main] log4j:26 - logged into the application
+2019-09-17 11:46:14,927  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-17 11:46:15,155  INFO [main] log4j:26 - Firstname Entered
+2019-09-17 11:46:15,750  INFO [main] log4j:26 - Last name entered
+2019-09-17 11:46:16,133  INFO [main] log4j:26 - Gender clicked
+2019-09-17 11:46:16,531  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-17 11:46:16,805  INFO [main] log4j:26 - Firstname Entered
+2019-09-17 11:46:17,419  INFO [main] log4j:26 - Last name entered
+2019-09-17 11:46:17,775  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-17 11:46:17,844  INFO [main] log4j:26 - Gender clicked
+2019-09-17 11:46:19,447  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-17 11:46:20,076  INFO [main] log4j:26 - Entered address of the patient
+2019-09-17 11:46:20,488  INFO [main] log4j:26 - Phone number entered
+2019-09-17 11:46:21,246  INFO [main] log4j:26 - Patient relations details were given
+2019-09-17 11:46:21,589  INFO [main] log4j:26 - Entered address of the patient
+2019-09-17 11:46:21,604  INFO [main] log4j:26 - AAA, BBB
+2019-09-17 11:46:21,608  INFO [main] log4j:26 - verified Name of the patient
+2019-09-17 11:46:21,812  INFO [main] log4j:26 - Male
+2019-09-17 11:46:21,812  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-17 11:46:21,968  INFO [main] log4j:26 - 12, January, 1993
+2019-09-17 11:46:21,968  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-17 11:46:22,000  INFO [main] log4j:26 - Phone number entered
+2019-09-17 11:46:22,564  INFO [main] log4j:26 - Patient relations details were given
+2019-09-17 11:46:22,792  INFO [main] log4j:26 - AAA, BBB
+2019-09-17 11:46:22,796  INFO [main] log4j:26 - verified Name of the patient
+2019-09-17 11:46:22,884  INFO [main] log4j:26 - Male
+2019-09-17 11:46:22,884  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-17 11:46:22,964  INFO [main] log4j:26 - 12, January, 1993
+2019-09-17 11:46:22,964  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-17 12:38:07,949  INFO [main] utilityfiles:27 - chrome has started
+2019-09-17 12:38:11,257  INFO [main] log4j:26 - Url loaded
+2019-09-17 12:38:32,283  INFO [main] utilityfiles:27 - chrome has started
+2019-09-17 12:39:45,928  INFO [main] utilityfiles:27 - chrome has started
+2019-09-17 12:39:53,762  INFO [main] log4j:26 - Url loaded
+2019-09-17 12:39:58,939  INFO [main] log4j:26 - logged into the application
+2019-09-17 12:40:02,061  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-18 10:43:56,992  INFO [main] utilityfiles:27 - chrome has started
+2019-09-18 10:44:02,159  INFO [main] log4j:26 - Url loaded
+2019-09-18 10:44:09,471  INFO [main] log4j:26 - logged into the application
+2019-09-18 10:44:13,534  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-18 10:44:13,816  INFO [main] log4j:26 - Firstname Entered
+2019-09-18 10:44:14,348  INFO [main] log4j:26 - Last name entered
+2019-09-18 10:44:14,700  INFO [main] log4j:26 - Gender clicked
+2019-09-18 10:44:15,992  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-18 10:44:17,900  INFO [main] log4j:26 - Entered address of the patient
+2019-09-18 10:44:18,276  INFO [main] log4j:26 - Phone number entered
+2019-09-18 10:44:18,944  INFO [main] log4j:26 - Patient relations details were given
+2019-09-18 10:44:19,194  INFO [main] log4j:26 - AAA, BBB
+2019-09-18 10:44:19,210  INFO [main] log4j:26 - verified Name of the patient
+2019-09-18 10:44:19,322  INFO [main] log4j:26 - Male
+2019-09-18 10:44:19,322  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-18 10:44:19,442  INFO [main] log4j:26 - 12, January, 1993
+2019-09-18 10:44:19,446  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-18 10:44:34,830  INFO [main] log4j:26 - AAA BBB
+2019-09-18 10:44:34,830  INFO [main] log4j:26 - verified
+2019-09-18 10:44:34,979  INFO [main] log4j:26 - PASS : verified
+2019-09-18 10:44:34,983  INFO [main] log4j:29 - true
+2019-09-18 10:44:37,291  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-18 10:44:37,484  INFO [main] log4j:26 - Firstname Entered
+2019-09-18 10:44:38,056  INFO [main] log4j:26 - Last name entered
+2019-09-18 10:44:38,464  INFO [main] log4j:26 - Gender clicked
+2019-09-18 10:44:39,781  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-18 10:44:41,789  INFO [main] log4j:26 - Entered address of the patient
+2019-09-18 10:44:42,105  INFO [main] log4j:26 - Phone number entered
+2019-09-18 10:44:43,073  INFO [main] log4j:26 - Patient relations details were given
+2019-09-18 10:44:43,432  INFO [main] log4j:26 - QQQ, VVV
+2019-09-18 10:44:43,432  INFO [main] log4j:26 - verified Name of the patient
+2019-09-18 10:44:43,552  INFO [main] log4j:26 - Male
+2019-09-18 10:44:43,552  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-18 10:44:43,676  INFO [main] log4j:26 - 21, October, 2001
+2019-09-18 10:44:43,676  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-18 10:44:51,057  INFO [main] log4j:26 - QQQ VVV
+2019-09-18 10:44:51,061  INFO [main] log4j:26 - verified
+2019-09-18 10:44:51,319  INFO [main] log4j:26 - PASS : verified
+2019-09-18 10:44:51,319  INFO [main] log4j:29 - true
+2019-09-18 10:44:55,752  INFO [main] log4j:26 - data merge button is clicked
+2019-09-18 10:44:59,562  INFO [main] log4j:26 - data merge is done
+2019-09-18 10:45:01,283  INFO [main] log4j:26 - merge is done
+2019-09-18 10:45:08,347  INFO [main] log4j:26 - id's were merged
+2019-09-18 10:45:08,682 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 10:45:08,682 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2019-09-18 10:45:08,686 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2019-09-18 10:45:08,690 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2019-09-18 10:45:09,282 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 10:45:09,286 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2019-09-18 10:45:09,286 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2019-09-18 10:45:09,286 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2019-09-18 10:45:09,289 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 10:45:09,289 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2019-09-18 10:45:09,289 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2019-09-18 10:45:09,289 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2019-09-18 10:45:09,301 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 10:45:09,305 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2019-09-18 10:45:09,305 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2019-09-18 10:45:09,305 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2019-09-18 10:45:09,317 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 10:45:09,317 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2019-09-18 10:45:09,317 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2019-09-18 10:45:09,317 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2019-09-18 10:45:09,341 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 10:45:09,341 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2019-09-18 10:45:09,345 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2019-09-18 10:45:09,345 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2019-09-18 10:45:09,365 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 10:45:09,369 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2019-09-18 10:45:09,369 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2019-09-18 10:45:09,370 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2019-09-18 10:45:09,374 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 10:45:09,374 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2019-09-18 10:45:09,374 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2019-09-18 10:45:09,374 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2019-09-18 10:45:09,382 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 10:45:09,382 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2019-09-18 10:45:09,382 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2019-09-18 10:45:09,382 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2019-09-18 10:45:09,390 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 10:45:09,390 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2019-09-18 10:45:09,390 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2019-09-18 10:45:09,394 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2019-09-18 10:45:09,410 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 10:45:09,410 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2019-09-18 10:45:09,414 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2019-09-18 10:45:09,414 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2019-09-18 10:49:32,993  INFO [main] utilityfiles:27 - chrome has started
+2019-09-18 10:49:36,887  INFO [main] log4j:26 - Url loaded
+2019-09-18 10:49:43,519  INFO [main] log4j:26 - logged into the application
+2019-09-18 10:49:48,710  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-18 10:49:48,913  INFO [main] log4j:26 - Firstname Entered
+2019-09-18 10:49:49,441  INFO [main] log4j:26 - Last name entered
+2019-09-18 10:49:49,809  INFO [main] log4j:26 - Gender clicked
+2019-09-18 10:49:51,066  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-18 10:49:53,149  INFO [main] log4j:26 - Entered address of the patient
+2019-09-18 10:49:53,558  INFO [main] log4j:26 - Phone number entered
+2019-09-18 10:49:54,257  INFO [main] log4j:26 - Patient relations details were given
+2019-09-18 10:49:54,541  INFO [main] log4j:26 - AAA, BBB
+2019-09-18 10:49:54,545  INFO [main] log4j:26 - verified Name of the patient
+2019-09-18 10:49:54,661  INFO [main] log4j:26 - Male
+2019-09-18 10:49:54,661  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-18 10:49:54,805  INFO [main] log4j:26 - 12, January, 1993
+2019-09-18 10:49:54,805  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-18 10:50:38,432  INFO [main] utilityfiles:27 - chrome has started
+2019-09-18 10:50:42,302  INFO [main] log4j:26 - Url loaded
+2019-09-18 10:50:48,838  INFO [main] log4j:26 - logged into the application
+2019-09-18 10:50:52,794  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-18 10:50:52,993  INFO [main] log4j:26 - Firstname Entered
+2019-09-18 10:50:53,477  INFO [main] log4j:26 - Last name entered
+2019-09-18 10:50:53,789  INFO [main] log4j:26 - Gender clicked
+2019-09-18 10:50:54,954  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-18 10:50:57,083  INFO [main] log4j:26 - Entered address of the patient
+2019-09-18 10:50:57,477  INFO [main] log4j:26 - Phone number entered
+2019-09-18 10:50:58,192  INFO [main] log4j:26 - Patient relations details were given
+2019-09-18 10:50:58,425  INFO [main] log4j:26 - AAA, BBB
+2019-09-18 10:50:58,429  INFO [main] log4j:26 - verified Name of the patient
+2019-09-18 10:50:58,521  INFO [main] log4j:26 - Male
+2019-09-18 10:50:58,521  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-18 10:50:58,633  INFO [main] log4j:26 - 12, January, 1993
+2019-09-18 10:50:58,633  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-18 10:52:00,504  INFO [main] utilityfiles:27 - chrome has started
+2019-09-18 10:52:04,718  INFO [main] log4j:26 - Url loaded
+2019-09-18 10:52:11,771  INFO [main] log4j:26 - logged into the application
+2019-09-18 10:52:15,947  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-18 10:52:16,171  INFO [main] log4j:26 - Firstname Entered
+2019-09-18 10:52:16,799  INFO [main] log4j:26 - Last name entered
+2019-09-18 10:52:17,195  INFO [main] log4j:26 - Gender clicked
+2019-09-18 10:52:18,505  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-18 10:52:20,552  INFO [main] log4j:26 - Entered address of the patient
+2019-09-18 10:52:20,955  INFO [main] log4j:26 - Phone number entered
+2019-09-18 10:52:21,599  INFO [main] log4j:26 - Patient relations details were given
+2019-09-18 10:52:21,844  INFO [main] log4j:26 - AAA, BBB
+2019-09-18 10:52:21,848  INFO [main] log4j:26 - verified Name of the patient
+2019-09-18 10:52:21,952  INFO [main] log4j:26 - Male
+2019-09-18 10:52:21,952  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-18 10:52:22,080  INFO [main] log4j:26 - 12, January, 1993
+2019-09-18 10:52:22,084  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-18 10:52:33,831  INFO [main] log4j:26 - AAA BBB
+2019-09-18 10:52:33,831  INFO [main] log4j:26 - verified
+2019-09-18 10:52:33,974  INFO [main] log4j:26 - PASS : verified
+2019-09-18 10:52:33,974  INFO [main] log4j:29 - true
+2019-09-18 10:52:36,186  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-18 10:52:36,367  INFO [main] log4j:26 - Firstname Entered
+2019-09-18 10:52:36,843  INFO [main] log4j:26 - Last name entered
+2019-09-18 10:52:37,271  INFO [main] log4j:26 - Gender clicked
+2019-09-18 10:52:38,838  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-18 10:52:41,439  INFO [main] log4j:26 - Entered address of the patient
+2019-09-18 10:52:41,916  INFO [main] log4j:26 - Phone number entered
+2019-09-18 10:52:42,724  INFO [main] log4j:26 - Patient relations details were given
+2019-09-18 10:52:42,944  INFO [main] log4j:26 - QQQ, VVV
+2019-09-18 10:52:42,944  INFO [main] log4j:26 - verified Name of the patient
+2019-09-18 10:52:43,048  INFO [main] log4j:26 - Male
+2019-09-18 10:52:43,048  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-18 10:52:43,132  INFO [main] log4j:26 - 21, October, 2001
+2019-09-18 10:52:43,132  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-18 11:24:52,473  INFO [main] utilityfiles:27 - chrome has started
+2019-09-18 11:25:01,968  INFO [main] log4j:26 - Url loaded
+2019-09-18 11:25:08,895  INFO [main] log4j:26 - logged into the application
+2019-09-18 11:25:13,268  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-18 11:25:13,491  INFO [main] log4j:26 - Firstname Entered
+2019-09-18 11:25:13,947  INFO [main] log4j:26 - Last name entered
+2019-09-18 11:25:14,303  INFO [main] log4j:26 - Gender clicked
+2019-09-18 11:25:15,524  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-18 11:25:17,466  INFO [main] log4j:26 - Entered address of the patient
+2019-09-18 11:25:17,857  INFO [main] log4j:26 - Phone number entered
+2019-09-18 11:25:18,557  INFO [main] log4j:26 - Patient relations details were given
+2019-09-18 11:25:18,806  INFO [main] log4j:26 - AAA, BBB
+2019-09-18 11:25:18,810  INFO [main] log4j:26 - verified Name of the patient
+2019-09-18 11:25:18,941  INFO [main] log4j:26 - Male
+2019-09-18 11:25:18,941  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-18 11:25:19,045  INFO [main] log4j:26 - 12, January, 1993
+2019-09-18 11:25:19,049  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-18 11:25:30,269  INFO [main] log4j:26 - AAA BBB
+2019-09-18 11:25:30,273  INFO [main] log4j:26 - verified
+2019-09-18 11:25:30,412  INFO [main] log4j:26 - PASS : verified
+2019-09-18 11:25:30,412  INFO [main] log4j:29 - true
+2019-09-18 11:25:32,785  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-18 11:25:33,000  INFO [main] log4j:26 - Firstname Entered
+2019-09-18 11:25:33,720  INFO [main] log4j:26 - Last name entered
+2019-09-18 11:25:34,132  INFO [main] log4j:26 - Gender clicked
+2019-09-18 11:25:35,294  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-18 11:25:37,383  INFO [main] log4j:26 - Entered address of the patient
+2019-09-18 11:25:37,752  INFO [main] log4j:26 - Phone number entered
+2019-09-18 11:25:38,456  INFO [main] log4j:26 - Patient relations details were given
+2019-09-18 11:25:38,691  INFO [main] log4j:26 - QQQ, VVV
+2019-09-18 11:25:38,695  INFO [main] log4j:26 - verified Name of the patient
+2019-09-18 11:25:38,791  INFO [main] log4j:26 - Male
+2019-09-18 11:25:38,791  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-18 11:25:38,915  INFO [main] log4j:26 - 21, October, 2001
+2019-09-18 11:25:38,915  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-18 11:25:46,319  INFO [main] log4j:26 - QQQ VVV
+2019-09-18 11:25:46,323  INFO [main] log4j:26 - verified
+2019-09-18 11:25:46,544  INFO [main] log4j:26 - PASS : verified
+2019-09-18 11:25:46,544  INFO [main] log4j:29 - true
+2019-09-18 11:25:50,568  INFO [main] log4j:26 - data merge button is clicked
+2019-09-18 11:25:54,239  INFO [main] log4j:26 - data merge is done
+2019-09-18 11:25:54,442  INFO [main] log4j:26 - merge is done
+2019-09-18 11:30:10,828  INFO [main] utilityfiles:27 - chrome has started
+2019-09-18 11:30:15,790  INFO [main] log4j:26 - Url loaded
+2019-09-18 11:30:22,896  INFO [main] log4j:26 - logged into the application
+2019-09-18 11:30:33,302  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-18 11:30:33,508  INFO [main] log4j:26 - Firstname Entered
+2019-09-18 11:30:34,003  INFO [main] log4j:26 - Last name entered
+2019-09-18 11:30:34,343  INFO [main] log4j:26 - Gender clicked
+2019-09-18 11:30:35,560  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-18 11:30:37,888  INFO [main] log4j:26 - Entered address of the patient
+2019-09-18 11:30:38,298  INFO [main] log4j:26 - Phone number entered
+2019-09-18 11:30:38,962  INFO [main] log4j:26 - Patient relations details were given
+2019-09-18 11:30:39,185  INFO [main] log4j:26 - AAA, BBB
+2019-09-18 11:30:39,185  INFO [main] log4j:26 - verified Name of the patient
+2019-09-18 11:30:39,277  INFO [main] log4j:26 - Male
+2019-09-18 11:30:39,277  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-18 11:30:39,397  INFO [main] log4j:26 - 12, January, 1993
+2019-09-18 11:30:39,397  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-18 11:31:12,000  INFO [main] log4j:26 - AAA BBB
+2019-09-18 11:31:12,000  INFO [main] log4j:26 - verified
+2019-09-18 11:31:12,153  INFO [main] log4j:26 - PASS : verified
+2019-09-18 11:31:12,153  INFO [main] log4j:29 - true
+2019-09-18 11:31:14,656  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-18 11:31:14,824  INFO [main] log4j:26 - Firstname Entered
+2019-09-18 11:31:15,344  INFO [main] log4j:26 - Last name entered
+2019-09-18 11:31:15,700  INFO [main] log4j:26 - Gender clicked
+2019-09-18 11:31:17,196  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-18 11:31:19,731  INFO [main] log4j:26 - Entered address of the patient
+2019-09-18 11:31:20,091  INFO [main] log4j:26 - Phone number entered
+2019-09-18 11:31:20,758  INFO [main] log4j:26 - Patient relations details were given
+2019-09-18 11:31:21,007  INFO [main] log4j:26 - QQQ, VVV
+2019-09-18 11:31:21,007  INFO [main] log4j:26 - verified Name of the patient
+2019-09-18 11:31:21,119  INFO [main] log4j:26 - Male
+2019-09-18 11:31:21,119  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-18 11:31:21,227  INFO [main] log4j:26 - 21, October, 2001
+2019-09-18 11:31:21,227  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-18 11:31:27,918  INFO [main] log4j:26 - QQQ VVV
+2019-09-18 11:31:27,918  INFO [main] log4j:26 - verified
+2019-09-18 11:31:28,050  INFO [main] log4j:26 - PASS : verified
+2019-09-18 11:31:28,050  INFO [main] log4j:29 - true
+2019-09-18 11:31:32,707  INFO [main] log4j:26 - data merge button is clicked
+2019-09-18 11:31:36,037  INFO [main] log4j:26 - data merge is done
+2019-09-18 11:31:36,198  INFO [main] log4j:26 - merge is done
+2019-09-18 11:31:47,807 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 11:31:47,813 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2019-09-18 11:31:47,817 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2019-09-18 11:31:47,817 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2019-09-18 11:31:48,277 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 11:31:48,277 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2019-09-18 11:31:48,277 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2019-09-18 11:31:48,277 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2019-09-18 11:31:48,281 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 11:31:48,281 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2019-09-18 11:31:48,285 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2019-09-18 11:31:48,285 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2019-09-18 11:31:48,297 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 11:31:48,297 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2019-09-18 11:31:48,297 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2019-09-18 11:31:48,297 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2019-09-18 11:31:48,313 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 11:31:48,313 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2019-09-18 11:31:48,313 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2019-09-18 11:31:48,313 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2019-09-18 11:31:48,333 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 11:31:48,333 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2019-09-18 11:31:48,333 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2019-09-18 11:31:48,333 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2019-09-18 11:31:48,353 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 11:31:48,353 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2019-09-18 11:31:48,353 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2019-09-18 11:31:48,353 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2019-09-18 11:31:48,357 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 11:31:48,357 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2019-09-18 11:31:48,357 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2019-09-18 11:31:48,361 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2019-09-18 11:31:48,365 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 11:31:48,365 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2019-09-18 11:31:48,369 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2019-09-18 11:31:48,369 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2019-09-18 11:31:48,373 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 11:31:48,373 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2019-09-18 11:31:48,373 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2019-09-18 11:31:48,373 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2019-09-18 11:31:48,385 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 11:31:48,385 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2019-09-18 11:31:48,389 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2019-09-18 11:31:48,389 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2019-09-18 11:35:34,309  INFO [main] utilityfiles:27 - chrome has started
+2019-09-18 11:35:38,304  INFO [main] log4j:26 - Url loaded
+2019-09-18 11:35:44,937  INFO [main] log4j:26 - logged into the application
+2019-09-18 11:35:48,945  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-18 11:35:49,136  INFO [main] log4j:26 - Firstname Entered
+2019-09-18 11:35:49,620  INFO [main] log4j:26 - Last name entered
+2019-09-18 11:35:49,952  INFO [main] log4j:26 - Gender clicked
+2019-09-18 11:35:51,151  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-18 11:35:53,110  INFO [main] log4j:26 - Entered address of the patient
+2019-09-18 11:35:53,463  INFO [main] log4j:26 - Phone number entered
+2019-09-18 11:35:54,115  INFO [main] log4j:26 - Patient relations details were given
+2019-09-18 11:35:54,350  INFO [main] log4j:26 - AAA, BBB
+2019-09-18 11:35:54,354  INFO [main] log4j:26 - verified Name of the patient
+2019-09-18 11:35:54,458  INFO [main] log4j:26 - Male
+2019-09-18 11:35:54,458  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-18 11:35:54,566  INFO [main] log4j:26 - 12, January, 1993
+2019-09-18 11:35:54,570  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-18 11:36:06,538  INFO [main] log4j:26 - AAA BBB
+2019-09-18 11:36:06,542  INFO [main] log4j:26 - verified
+2019-09-18 11:36:06,676  INFO [main] log4j:26 - PASS : verified
+2019-09-18 11:36:06,676  INFO [main] log4j:29 - true
+2019-09-18 11:36:08,977  INFO [main] log4j:26 - Patient registration is clicked
+2019-09-18 11:36:09,182  INFO [main] log4j:26 - Firstname Entered
+2019-09-18 11:36:09,710  INFO [main] log4j:26 - Last name entered
+2019-09-18 11:36:10,042  INFO [main] log4j:26 - Gender clicked
+2019-09-18 11:36:11,107  INFO [main] log4j:26 - Date-of-Birth entered for the patient 
+2019-09-18 11:36:13,383  INFO [main] log4j:26 - Entered address of the patient
+2019-09-18 11:36:13,817  INFO [main] log4j:26 - Phone number entered
+2019-09-18 11:36:14,717  INFO [main] log4j:26 - Patient relations details were given
+2019-09-18 11:36:15,045  INFO [main] log4j:26 - QQQ, VVV
+2019-09-18 11:36:15,045  INFO [main] log4j:26 - verified Name of the patient
+2019-09-18 11:36:15,209  INFO [main] log4j:26 - Male
+2019-09-18 11:36:15,209  INFO [main] log4j:26 - Verified Gender of the patient
+2019-09-18 11:36:15,401  INFO [main] log4j:26 - 21, October, 2001
+2019-09-18 11:36:15,405  INFO [main] log4j:26 - verified Birthdate of the patient
+2019-09-18 11:36:22,572  INFO [main] log4j:26 - QQQ VVV
+2019-09-18 11:36:22,576  INFO [main] log4j:26 - verified
+2019-09-18 11:36:22,729  INFO [main] log4j:26 - PASS : verified
+2019-09-18 11:36:22,733  INFO [main] log4j:29 - true
+2019-09-18 11:36:26,708  INFO [main] log4j:26 - data merge button is clicked
+2019-09-18 11:36:30,632  INFO [main] log4j:26 - data merge is done
+2019-09-18 11:36:30,820  INFO [main] log4j:26 - merge is done
+2019-09-18 11:36:46,138 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 11:36:46,142 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2019-09-18 11:36:46,143 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2019-09-18 11:36:46,143 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2019-09-18 11:36:46,403 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 11:36:46,403 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2019-09-18 11:36:46,403 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2019-09-18 11:36:46,403 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2019-09-18 11:36:46,407 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 11:36:46,407 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2019-09-18 11:36:46,411 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2019-09-18 11:36:46,411 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2019-09-18 11:36:46,419 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 11:36:46,419 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2019-09-18 11:36:46,419 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2019-09-18 11:36:46,419 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2019-09-18 11:36:46,431 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 11:36:46,431 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2019-09-18 11:36:46,431 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2019-09-18 11:36:46,431 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2019-09-18 11:36:46,451 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 11:36:46,451 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2019-09-18 11:36:46,451 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2019-09-18 11:36:46,451 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2019-09-18 11:36:46,471 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 11:36:46,471 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2019-09-18 11:36:47,910 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2019-09-18 11:36:47,910 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2019-09-18 11:36:48,086 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 11:36:48,090 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2019-09-18 11:36:48,090 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2019-09-18 11:36:48,090 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2019-09-18 11:36:48,118 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 11:36:48,118 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2019-09-18 11:36:48,122 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2019-09-18 11:36:48,122 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2019-09-18 11:36:48,138 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 11:36:48,138 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2019-09-18 11:36:48,142 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2019-09-18 11:36:48,142 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2019-09-18 11:36:48,182 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-09-18 11:36:48,182 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2019-09-18 11:36:48,186 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2019-09-18 11:36:48,190 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/magesh.suriyamoorthi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"

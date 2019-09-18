@@ -59,7 +59,9 @@ public class DataManagement {
 
 	public void validate() {
 		actual = UtilityFiles.getactual(prop.getValue("locators.get.id"));
+		System.out.println(actual);
 		String[] arr = actual.split("\\s");
+		System.out.println(arr[0]);
 		if (actual.equals(arr[0])) {
 			logreports.info("id's were merged");
 		} else {
