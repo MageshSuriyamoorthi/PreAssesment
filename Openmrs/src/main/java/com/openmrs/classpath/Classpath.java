@@ -39,6 +39,8 @@ public class Classpath {
 	public static String IE_file = Users_Home + File.separator + "lib" + File.separator + "IEDriverServer.exe";
 
 	public static String Edge_file = Users_Home + File.separator + "lib" + File.separator + "MicrosoftWebDriver.exe";
+	
+	public static String extendreport = Users_Home + File.separator + "extendedreport" + File.separator ;
 	/*
 	 * public static void main(String[] args) { System.out.println(log4j_file); }
 	 */

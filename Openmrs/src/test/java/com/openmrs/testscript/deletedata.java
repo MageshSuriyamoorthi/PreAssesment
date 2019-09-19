@@ -3,6 +3,8 @@ package com.openmrs.testscript;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.Test;
 
+import com.openmrs.pages.safety;
+
 public class deletedata {
 	safety safe = new safety();
 

@@ -22,7 +22,7 @@ public class DataManagement {
 	public void datamerge() {
 		util.entertext(prop.getValue("locators.search.record"), "AAA");
 		try {
-			Thread.sleep(2000);
+			Thread.sleep(1000);
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -36,7 +36,7 @@ public class DataManagement {
 
 		util.entertext(prop.getValue("locators.search.record"), "QQQ");
 		try {
-			Thread.sleep(2000);
+			Thread.sleep(1000);
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -65,13 +65,12 @@ public class DataManagement {
 
 	public void validate() {
 		actual = UtilityFiles.getactual(prop.getValue("locators.get.id"));
-		System.out.println(actual);
-		String[] arr = actual.split("\\s");
-		System.out.println(arr[0]);
-		if (actual.equals(arr[0])) {
-			logreports.info("id's were not merged");
-		} else {
-			logreports.info("id's were merged");
-		}
+		String[] expected = actual.split("\\s");
+		util.assertequals(actual,expected[0] , "ID's wewen't merged");
+
+		/*
+		 * if (actual.equals(expected[0])) { logreports.info("id's were not merged"); } else
+		 * { logreports.info("id's were merged"); }
+		 */
 	}
 }

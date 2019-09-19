@@ -1,4 +1,4 @@
-package com.openmrs.testscript;
+package com.openmrs.pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
@@ -25,7 +25,7 @@ public class safety extends BrowserInvoke {
 	
 	}
 	public void delete() {
-		driver.findElement(By.xpath("//input[@type='text']")).sendKeys("qqq");
+		driver.findElement(By.xpath("//input[@type='text']")).sendKeys("aaa");
 		try {
 			Thread.sleep(3000);
 		} catch (InterruptedException e) {

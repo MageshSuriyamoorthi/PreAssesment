@@ -5,10 +5,11 @@ import com.aventstack.extentreports.ExtentTest;
 //import com.aventstack.extentreports.MediaEntityBuilder;
 import com.aventstack.extentreports.Status;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
+import com.openmrs.classpath.Classpath;
 
 public class ExtentReport {
 
-	static ExtentHtmlReporter reporter = new ExtentHtmlReporter("/Openmrs/extendedreport/openmrs.html");
+	static ExtentHtmlReporter reporter = new ExtentHtmlReporter(Classpath.extendreport + "openmrs.html");
 	static ExtentReports extent = new ExtentReports();
 
 	public static void reportLog(String testname, String Failuremsg) {
